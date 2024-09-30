@@ -1,7 +1,7 @@
 ---
 title: Scale Ratios Represent the Relationship Between a Unit of Measurement on a Model or Drawing and the Corresponding Actual Distance.
-date: 2024-09-19T17:43:48.577Z
-updated: 2024-09-25T22:44:05.374Z
+date: 2024-09-28T16:35:30.062Z
+updated: 2024-09-29T16:54:34.104Z
 tags:
   - product
 categories:
@@ -20,25 +20,25 @@ thumbnail: https://thmb.techidaily.com/ab7b24e72134add05d60a9c9878e14a3ae56dcbc7
 [Custom Development](https://tools.techidaily.com/creative-tim/products/) [Discord Server](https://discord.com/invite/FhCJCaHdQa) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Loading...
 
 <!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Sharing is caring!
@@ -60,16 +60,24 @@ thumbnail: https://thmb.techidaily.com/ab7b24e72134add05d60a9c9878e14a3ae56dcbc7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-belly-laughs-ledger-no-fee-funny-templates/"><u>[New] Belly Laughs Ledger No-Fee Funny Templates</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-wirecast-strategies-for-successful-social-media-livestreams/"><u>[Updated] Wirecast Strategies for Successful Social Media Livestreams</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-timeless-telephony-a-compilation-of-calls/"><u>2024 Approved Timeless Telephony A Compilation of Calls</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/advanced-blk-design-suite-pro-elite-bootstrap-4-framework-by-creative-tim/"><u>Advanced BLK Design Suite Pro: Elite Bootstrap 4 Framework by Creative Tim</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/advanced-bootstrapped-admin-interface-for-laravel-apps-get-your-project-started-with-creativetims-no-cost-starter-kit/"><u>Advanced Bootstrapped Admin Interface for Laravel Apps: Get Your Project Started with @CreativeTim's No-Cost Starter Kit</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/re-clarity-high-quality-screen-recordings-for-youtubers-pcmac/"><u>Capture Clarity High-Quality Screen Recordings for YouTubers (PC/Mac)</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-epicplayback-expert-analysis/"><u>In 2024, EpicPlayback Expert Analysis</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/mastering-splash-20-the-ultimate-user-manual-for-enhanced-performance/"><u>Mastering Splash 2.0: The Ultimate User Manual for Enhanced Performance</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solution-for-loudspeakers-buzzing-in-your-pc-running-windows-10-or-7/"><u>Solution for Loudspeakers Buzzing in Your PC Running Windows 10 or 7</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-configuring-remote-access-for-windows-10-pcs-via-rdc/"><u>Step-by-Step Guide: Configuring Remote Access for Windows 10 PCs via RDC</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/the-meeting-of-the-minds-concept-under-the-ucc-does-not-require-acceptance-to-match-every-detail-of-the-offer-as-strictly-as-common-law-allowing-for-some-fl12/"><u>The Meeting of the Minds Concept Under the UCC Does Not Require Acceptance to Match Every Detail of the Offer as Strictly as Common Law, Allowing for some Flexibility.</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-complete-evaluation-of-camstudio-screen-recorder/"><u>[New] Complete Evaluation of CamStudio Screen Recorder</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-canva-enthusiasts-reveal-their-top-10-editor-steps/"><u>[New] In 2024, Canva Enthusiasts Reveal Their Top 10 Editor Steps</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-the-popularity-of-video-content-on-social-media-networks-has-been-soaring-in-the-last-couple-of-years-and-it-is-only-reasonable-to-expect-this/"><u>2024 Approved The Popularity of Video Content on Social Media Networks Has Been Soaring in the Last Couple of Years, and It Is only Reasonable to Expect This Trend to Continue. Thats the Reason Why in This Article</u></a></li>
+<li><a href="https://windows11.techidaily.com/5-strategies-for-resolving-the-no-support-windows-error/"><u>5 Strategies for Resolving the No-Support Windows Error</u></a></li>
+<li><a href="https://win11.techidaily.com/boosting-classic-gameplay-seamlessly-adding-achievements-using-retroarch/"><u>Boosting Classic Gameplay - Seamlessly Adding Achievements Using Retroarch</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/how-to-set-up-page-metadata-in-flipbook-prior-to-publishing-online/"><u>How to Set Up Page Metadata in FlipBook Prior to Publishing Online</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-is-greyed-out-on-iphone-se-2020-how-to-bypass-by-drfone-ios/"><u>In 2024, Apple ID is Greyed Out On iPhone SE (2020) How to Bypass?</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/incorporating-datetime-stamps-in-text-during-flipbook-creation-with-flipbuilder/"><u>Incorporating Date/Time Stamps in Text During FlipBook Creation with FlipBuilder</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/integrate-sound-for-enhanced-learning-adding-audio-files-to-each-page-of-your-multilingual-course-book-using-flipbuilder-tools/"><u>Integrate Sound for Enhanced Learning: Adding Audio Files to Each Page of Your Multilingual Course Book Using FlipBuilder Tools</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/is-it-possible-to-move-personalized-themes-from-other-platforms-to-flipbuilder/"><u>Is It Possible to Move Personalized Themes From Other Platforms to FlipBuilder?</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/master-the-art-of-persistent-flipbook-index-display-for-seamless-user-experience-flipbuildercom/"><u>Master the Art of Persistent FlipBook Index Display for Seamless User Experience [FlipBuilder.com]</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-official-100-valid-wondershare-filmora-coupon-code-up-to-54-off/"><u>New In 2024, Official 100 Valid Wondershare Filmora Coupon Code Up to 54 OFF</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/optimal-data-presentation-and-distribution-understanding-output-modes-of-flipbuilder-html-zip-executable-cd-burn/"><u>Optimal Data Presentation and Distribution: Understanding Output Modes of FlipBuilder (HTML, Zip, Executable, CD Burn)</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/optimize-with-cookiebot-advanced-marketing-automation-tools-for-seamless-engagement/"><u>Optimize with Cookiebot: Advanced Marketing Automation Tools for Seamless Engagement</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-photo-import-glitches-with-ios-devices-on-windows/"><u>Overcoming Photo Import Glitches with iOS Devices on Windows</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/professional-photo-editing-tools-flipbuilder-and-more/"><u>Professional Photo Editing Tools - FlipBuilder & More</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/publishing-your-flipbook-content-on-the-web-a-step-by-step-guide/"><u>Publishing Your FlipBook Content on the Web - A Step-by-Step Guide</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/revolutionizing-digital-publishing-can-you-redirect-the-future-of-flipping-books-with-flipbuilder/"><u>Revolutionizing Digital Publishing: Can You Redirect the Future of Flipping Books with FlipBuilder?</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-ultimate-companion-guide-to-twelve-souths-bookbook-v2-macbook-case-is-it-worth-it/"><u>The Ultimate Companion Guide to Twelve South's BookBook V2 MacBook Case - Is It Worth It?</u></a></li>
 </ul></div>
 
