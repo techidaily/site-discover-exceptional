@@ -1,7 +1,7 @@
 ---
 title: Scale Ratios Represent the Relationship Between a Unit of Measurement on a Model or Drawing and the Corresponding Actual Distance.
-date: 2024-10-02T18:43:25.564Z
-updated: 2024-10-05T20:05:42.108Z
+date: 2024-10-07T16:07:23.581Z
+updated: 2024-10-11T08:05:19.278Z
 tags:
   - product
 categories:
@@ -20,19 +20,19 @@ thumbnail: https://thmb.techidaily.com/ab7b24e72134add05d60a9c9878e14a3ae56dcbc7
 [Custom Development](https://tools.techidaily.com/creative-tim/products/) [Discord Server](https://discord.com/invite/FhCJCaHdQa) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Loading...
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Sharing is caring!
@@ -54,19 +54,24 @@ thumbnail: https://thmb.techidaily.com/ab7b24e72134add05d60a9c9878e14a3ae56dcbc7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-best-of-both-worlds-youtubes-vr-gems-for-2024/"><u>[New] Best of Both Worlds YouTube’s VR Gems for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-beyond-reality-the-future-of-virtual-experiences-for-2024/"><u>[New] Beyond Reality The Future of Virtual Experiences for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-how-to-recover-eyes-only-snaps-a-step-by-step-guide-for-2024/"><u>[New] How to Recover Eyes-Only Snaps A Step-by-Step Guide for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-a-comprehensive-analysis-whatsapps-vocal-communication/"><u>[New] In 2024, A Comprehensive Analysis WhatsApp’s Vocal Communication</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-deceptions-toll-consequences-of-fake-supporters-in-video-markets/"><u>[Updated] Deception's Toll Consequences of Fake Supporters in Video Markets</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/1-simple-guide-capturing-your-omegle-chats-on-camera-seamlessly/"><u>1. Simple Guide: Capturing Your Omegle Chats on Camera Seamlessly</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-photoshop-lightroom-alternative-insights/"><u>2024 Approved Photoshop Lightroom Alternative Insights</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/essential-software-solutions-for-tracking-your-pc-usage/"><u>Essential Software Solutions for Tracking Your PC Usage</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/expert-guide-3-ways-to-keep-track-of-live-discord-events-for-2024/"><u>Expert Guide 3 Ways to Keep Track of Live Discord Events for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-bridge-the-gap-between-skype-and-zoom-with-simple-steps/"><u>In 2024, Bridge the Gap Between Skype & Zoom with Simple Steps</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/pioneering-audio-capture-tool-functional-on-macos-mojave-platform/"><u>Pioneering Audio Capture Tool Functional on macOS Mojave Platform</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/run-faster-with-the-garmin-forerunner-45-in-depth-gps-tracker-review/"><u>Run Faster with the Garmin Forerunner ˈ45: In-Depth GPS Tracker Review</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/step-by-step-guide-mastering-the-art-of-taking-screenshots-on-your-lg-device/"><u>Step-by-Step Guide: Mastering the Art of Taking Screenshots on Your LG Device</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/step-by-step-tutorial-efficiently-operating-microsofts-shutdown-helper-feature/"><u>Step-by-Step Tutorial: Efficiently Operating Microsoft's Shutdown Helper Feature</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-basic-routines-preserving-google-voice-conversations/"><u>[New] Basic Routines Preserving Google Voice Conversations</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-elevate-your-lenovo-experience-with-advanced-capture-methods/"><u>[New] In 2024, Elevate Your Lenovo Experience with Advanced Capture Methods</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-ultimate-routine-personalize-your-youtube-shorts-image-credits/"><u>[New] Ultimate Routine Personalize Your YouTube Shorts Image Credits</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-all-encompassing-review-the-hero4-black-guide/"><u>[Updated] All-Encompassing Review The Hero4 Black Guide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-mastering-spotifys-ad-landscape-a-comprehensive-guide/"><u>[Updated] Mastering Spotify's Ad Landscape A Comprehensive Guide</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/creative-tims-ultimate-pro-dashboard-template-advanced-bootstrap-4-design-with-professional-features/"><u>Creative Tim's Ultimate Pro Dashboard Template: Advanced Bootstrap 4 Design with Professional Features</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/creativetims-best-vue-and-ant-design-templates-for-stunning-web-applications/"><u>CreativeTim's Best Vue & Ant Design Templates for Stunning Web Applications</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/enhance-your-project-management-with-premium-angular-based-material-dashboard-pro-by-creative-tim-featuring-bootstrap-revised-prompt-english/"><u>Enhance Your Project Management with Premium Angular-Based Material Dashboard Pro by Creative Tim, Featuring Bootstrap # Revised Prompt (English)</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/enhanced-vuejsbootstrap-4-administration-panel-vue-argon-pro-expert-template-from-creative-tim/"><u>Enhanced Vue.js/Bootstrap 4 Administration Panel (Vue Argon PRO) - Expert Template From Creative Tim</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/exclusive-reactive-ui-dashboard-pro-enhanced-material-design-from-creative-tim/"><u>Exclusive Reactive UI Dashboard Pro: Enhanced Material Design From Creative Tim</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/free-reactive-dashboard-template-with-react-and-material-ui-by-creative-tim/"><u>Free Reactive Dashboard Template with React and Material-UI by Creative Tim</u></a></li>
+<li><a href="https://android-frp.techidaily.com/latest-guide-how-to-bypass-oppo-find-n3-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Oppo Find N3 FRP Without Computer</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/maximize-your-laravel-project-with-the-premier-paper-dashboard-pro-a-fully-featured-ready-to-use-crud-administrator-from-creative-tim/"><u>Maximize Your Laravel Project with the Premier Paper Dashboard Pro: A Fully-Featured, Ready-to-Use CRUD Administrator From Creative Tim</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/premium-soft-ui-dashboard-the-ultimate-laravel-solution-by-creative-tim-and-updivision/"><u>Premium Soft UI Dashboard: The Ultimate Laravel Solution by Creative Tim and UPDIVISION</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/professional-reactive-crm-and-platform-and-specify-the-association-with-creative-tim/"><u>Professional, Reactive, CRM, and Platform, and Specify the Association with Creative Tim.</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/system-hiccups-at-apple-lead-to-widespread-crashes-of-iphone-apps/"><u>System Hiccups at Apple Lead to Widespread Crashes of iPhone Apps</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-stuck-icloud-picture-upload-a-guide-with-7-solutions/"><u>Troubleshoot Stuck iCloud Picture Upload: A Guide with 7 Solutions</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-madden-nfl-20-pc-malfunctions-easy-fixes-to-try-now/"><u>Troubleshooting Madden NFL 20 PC Malfunctions: Easy Fixes to Try Now</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/whats-new-in-splash-v20-exploring-the-latest-features-and-changes/"><u>What's New in Splash v2.0? Exploring the Latest Features and Changes</u></a></li>
 </ul></div>
 
