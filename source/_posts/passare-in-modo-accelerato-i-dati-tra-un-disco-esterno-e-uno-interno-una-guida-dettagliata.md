@@ -1,7 +1,7 @@
 ---
 title: "Passare in Modo Accelerato I Dati Tra Un Disco Esterno E Uno Interno: Una Guida Dettagliata"
-date: 2024-10-10T07:06:31.390Z
-updated: 2024-10-11T02:09:13.375Z
+date: 2024-10-18T01:27:18.060Z
+updated: 2024-10-22T21:22:53.604Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/70eba607a5493f0dcd7d40fac4dac70e28238f9a9f5e87c656a3b61e25281e1d.jpg
@@ -46,10 +46,10 @@ NAS Buffalo est la solution idéale pour la protection des données et peut faci
 Ne vous inquiétez pas trop. Vous pouvez envisager d'utiliser un logiciel de sauvegarde NAS tiers pour vous aider. [AOMEI Backupper Standard](https://tools.techidaily.com/ubackup/products/) est un excellent choix en raison de sa grande compatibilité (prise en charge de Windows 7/8/10/11/XP/Vista), de sa gratuité, de sa facilité d'utilisation, de sa flexibilité et de ses fonctionnalités riches.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Avantages du logiciel de sauvegarde NAS Buffalo - AOMEI Backupper Standard
@@ -97,15 +97,22 @@ Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le no
 [![ajouter périphérique share ou nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/emplacement-reseau.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Étape 3.** Cliquez là où la flèche pointe et sélectionnez le disque externe préparé comme destination.
 
 [![destination](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/choix-chemin-destinations.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Étape 4.** Pour rendre la sauvegarde simple et efficace, définissez une planification de sauvegarde quotidienne, hebdomadaire ou mensuelle dans l'endroit inférieur et cliquez sur **Démarrer** pour sauvegarder le NAS Buffalo. Si vous cochez la case Réveiller l'ordinateur pour exécuter les tâches planifiées, le logiciel s'ouvrira et exécutera automatiquement cette tâche.
 
@@ -120,17 +127,10 @@ De plus, vous pouvez activer la notification par e-mail une fois la tâche termi
 [![options](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/options-sauvegarder/sauvegarde-options.png "AOMEI Email SMS Notification Settings")
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Dernières réflexions sur l'utilitaire de sauvegarde Buffalo
@@ -173,13 +173,6 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 
 [Oui](https://tools.techidaily.com/ubackup/products/)[Non](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Obtenez gratuitement AOMEI Backupper
 
 Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchronisation et le clonage.
@@ -189,13 +182,20 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Propre & Sûr
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -212,17 +212,20 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-the-impact-of-music-on-a-trailers-emotional-pull/"><u>[New] 2024 Approved The Impact of Music on a Trailer's Emotional Pull</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/n-2024-circulating-content-the-art-of-playlist-sharing/"><u>[New] In 2024, Circulating Content The Art of Playlist Sharing</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-screen-to-air-assessing-obs-and-twitch-studios-features-for-2024/"><u>[Updated] Screen to Air Assessing OBS and Twitch Studio's Features for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-brief-blueprints-iphone-content-for-desktop/"><u>2024 Approved Brief Blueprints IPhone Content for Desktop</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/easy-methods-for-adding-interactive-flipbooks-directly-to-your-website-with-flipbuilder-tools/"><u>Easy Methods for Adding Interactive Flipbooks Directly to Your Website with FlipBuilder Tools</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/einfach-erklart-wie-sie-untertitel-zu-ihren-mp4-videos-hinzufugen/"><u>Einfach Erklärt: Wie Sie Untertitel Zu Ihren MP4-Videos Hinzufügen</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/enhance-presentations-with-free-flipbook-style-themes-animated-icons-visual-zooming-find-ideas-on-flipbuilder/"><u>Enhance Presentations with Free Flipbook-Style Themes: Animated Icons, Visual Zooming - Find Ideas on FlipBuilder!</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/ensuring-your-logo-appears-when-purchasing-a-license-with-flipbook-from-flipbuildercom/"><u>Ensuring Your Logo Appears When Purchasing a License with FlipBook From FlipBuilder.com</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/exploring-flipbuildercom-what-languages-can-you-choose-from-in-the-menu-bar/"><u>Exploring FlipBuilder.com: What Languages Can You Choose From in the Menu Bar?</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/guide-to-annotating-images-in-flipbuilder-create-interactive-digital-photo-collections/"><u>Guide to Annotating Images in FlipBuilder - Create Interactive Digital Photo Collections</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-oneplus-open-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your OnePlus Open Screen | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/1726029399771-3/"><u>プロが選ぶベストな動画合成ソフトウェア 上位3品種（新しいもの）</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-techniques-for-interpreting-video-reactions-on-youtube/"><u>[Updated] 2024 Approved Techniques for Interpreting Video Reactions on YouTube</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-snapback-success-the-secrets-to-loops-on-instagram/"><u>[Updated] In 2024, Snapback Success The Secrets to Loops on Instagram</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/estandarizar-la-copia-de-discos-gpt-mediante-clonador-profesional-clonezilla-tutorial-detallado/"><u>Estandarizar La Copia De Discos GPT Mediante Clonador Profesional Clonezilla - Tutorial Detallado</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-newest-drivers-for-your-epson-wf-3720-free-download-and-installation-guide/"><u>Get the Newest Drivers for Your Epson WF 3720 - Free Download & Installation Guide</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/how-to-quickly-fix-windows-10s-0x80070422-update-failure-top-5-methods/"><u>How to Quickly Fix Windows 10'S 0X80070422 Update Failure: Top 5 Methods!</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-lava-yuva-3-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Lava Yuva 3 | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-the-pinnacle-of-vr-how-htc-vive-transforms-playtime/"><u>In 2024, The Pinnacle of VR How HTC Vive Transforms Playtime</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/making-everyone-see-you-top-tips-and-solutions-to-increase-your-youtube-views-for-2024/"><u>Making Everyone See You Top Tips & Solutions to Increase Your Youtube Views for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/mastering-drone-footage-a-step-by-step-guide/"><u>Mastering Drone Footage A Step-by-Step Guide</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/myrecover-professionelle-losungen-zur-wiederherstellung-verlorener-partitionen-auf-micro-sd-speicherkarten/"><u>MyRecover: Professionelle Lösungen Zur Wiederherstellung Verlorener Partitionen Auf Micro SD Speicherkarten</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/the-ultimate-conquest-celebrating-the-most-stellar-7-total-wars-for-2024/"><u>The Ultimate Conquest Celebrating the Most Stellar 7 Total Wars for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-guide-eliminate-latency-in-wireless-keyboards-for-a-smooth-windows-operation/"><u>Troubleshooting Guide: Eliminate Latency in Wireless Keyboards for a Smooth Windows Operation</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/ultimate-guide-mastering-seamless-cloud-synchronization-on-synology-dsm-7/"><u>Ultimate Guide: Mastering Seamless Cloud Synchronization on Synology DSM 7</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/unlocking-the-potential-of-aomei-backupper-masterful-insights-for-common-operations/"><u>Unlocking the Potential of AOMEI Backupper: Masterful Insights for Common Operations</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/wiederherstellung-von-daten-aus-einer-formatierten-ntfs-partition-schritt-fur-schritt-anleitung/"><u>Wiederherstellung Von Daten Aus Einer Formatierten NTFS-Partition: Schritt-Für-Schritt-Anleitung</u></a></li>
 </ul></div>
 
