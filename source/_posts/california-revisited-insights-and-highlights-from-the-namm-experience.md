@@ -1,7 +1,7 @@
 ---
 title: "California Revisited: Insights & Highlights From the NAMM Experience"
-date: 2024-11-24T16:59:53.413Z
-updated: 2024-12-01T00:59:27.791Z
+date: 2024-12-02T06:41:20.475Z
+updated: 2024-12-09T05:20:31.576Z
 tags:
   - product
 categories:
@@ -38,7 +38,7 @@ I’ve just returned from SoCal after the grind, albeit a enjoyable one, that is
    While some DJs may be turned off by the lack of tactile hands-on control (pushing faders, twisting knobs, etc), the versatility and application for the KS32 is fascinating.If you’re a multi-media mixing DJ that does more than just mix music — the KS32 is a product to consider. Think “modes” and panels, switching from video mixing mode, to karaoke mode and on to lighting control. Since it’s template based the flexibility is truly endless. PCDJ users rejoice, as Smithson Martin will be working on a new template for DEX 3 soon!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -60,21 +60,20 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2016/01/nammreport-coverimage.jpg?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-5-groundbreaking-advice-points-from-successful-marketers-online-for-2024/"><u>[New] 5 Groundbreaking Advice Points From Successful Marketers Online for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-visionary-voices-celebrating-innovative-female-creators-on-youtube/"><u>[New] Visionary Voices Celebrating Innovative Female Creators on YouTube</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-pioneering-process-open-mac-seamlessly-with-watch/"><u>[Updated] Pioneering Process Open Mac Seamlessly with Watch</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-simple-guide-making-your-windows-computer-speak-like-a-fish/"><u>[Updated] The Simple Guide Making Your Window's Computer Speak Like a Fish</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/best-5-cost-free-android-contact-management-apps/"><u>Best 5 Cost-Free Android Contact Management Apps</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/descubre-como-crear-un-imagen-de-sistema-personalizada-para-su-equipo-informatico/"><u>Descubre Cómo Crear Un Imagen De Sistema Personalizada Para Su Equipo Informático</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/guide-pratique-comment-utiliser-un-disque-dur-exterieur-pour-reconstruire-une-image-de-systeme-faq-and-etapes/"><u>Guide Pratique : Comment Utiliser Un Disque Dur Extérieur Pour Reconstruire Une Image De Système - FAQ & Étapes</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-southwest-airlines-innovative-technology-strategy-took-you-by-surprise-an-insightful-look-at-their-latest-move-zdnet/"><u>How Southwest Airlines' Innovative Technology Strategy Took You by Surprise: An Insightful Look at Their Latest Move - ZDNet</u></a></li>
-<li><a href="https://win-webmaster.techidaily.com/laten-jullie-een-volmaakbare-gopro-uitwisseling-maatregelen-kiezen-202/"><u>Laten Jullie Een Volmaakbare GoPro-Uitwisseling Maatregelen Kiezen: 202</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/1728506287546-pc/"><u>PCバックアップ手順：工場出荷時状態リセット直前のステップ</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/professionelle-anleitung-zum-erweiterung-des-speichers-nvme-ssd-in-deinem-dell-inspiron-5570-installieren/"><u>Professionelle Anleitung Zum Erweiterung Des Speichers: NVMe-SSD in Deinem Dell Inspiron 5570 Installieren</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/professionelle-tipps-und-tricks-fur-den-transfer-von-iphone-bildern-auf-ihren-computer-erfahren-sie-uber-5-verschiedene-ansatze/"><u>Professionelle Tipps Und Tricks Für Den Transfer Von iPhone-Bildern Auf Ihren Computer - Erfahren Sie Über 5 Verschiedene Ansätze</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/recuperacion-gratuita-de-archivos-eliminados-hace-3-anos-tres-estrategias-faciles/"><u>Recuperación Gratuita De Archivos Eliminados Hace 3 Años: Tres Estrategias Fáciles</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/rhythmical-learning-how-music-enhances-scientifically-supported-language-skills/"><u>Rhythmical Learning: How Music Enhances Scientifically-Supported Language Skills</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/step-by-step-guide-turning-off-automatic-updates-in-windows-10-via-the-registry-editor/"><u>Step-by-Step Guide: Turning Off Automatic Updates in Windows 10 via the Registry Editor</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-repairing-stuck-keys-on-windows-desktops/"><u>Troubleshooting and Repairing Stuck Keys on Windows Desktops</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-compact-guide-setting-up-snapchat-macos-style-for-2024/"><u>[New] Compact Guide Setting up Snapchat macOS-Style for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-enhance-your-yt-summary-top-notch-template-guides/"><u>[Updated] Enhance Your YT Summary Top-Notch Template Guides</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/exploring-the-motivations-of-the-nanchang-revolt-with-yls-tech-expertise-yl-computing-and-software-analysis/"><u>Exploring the Motivations of the Nanchang Revolt with YL's Tech Expertise – YL Computing and Software Analysis</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-motorola-g54-5g-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Motorola G54 5G Screen Black But Still Works? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-unbrick-a-dead-oneplus-nord-n30-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead OnePlus Nord N30 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/huawei-p60-can-t-play-mp4-video-files-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Huawei P60 can't play MP4 video files</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Realme 12+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-step-into-success-with-instant-youtube-thumbnail-skills/"><u>In 2024, Step Into Success with Instant YouTube Thumbnail Skills</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/play-your-old-games-anywhere-anytime-choosing-the-best-gba-emulators-for-windows-pcs-for-2024/"><u>Play Your Old Games Anywhere, Anytime Choosing the Best GBA Emulators for Windows PCs for 2024</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/quick-tips-how-to-optimize-and-turbocharge-your-computers-performance/"><u>Quick Tips: How To Optimize & Turbocharge Your Computer's Performance</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/troubleshooting-steps-when-your-scanner-fails-to-pair-with-a-windows-pc-expert-advice-from-yl-computing/"><u>Troubleshooting Steps When Your Scanner Fails to Pair with a Windows PC: Expert Advice From YL Computing</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/understanding-the-concept-of-a-registry-key-insights-from-yl-computings-expertise/"><u>Understanding the Concept of a Registry Key: Insights From YL Computing's Expertise</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/understanding-the-vital-role-of-the-grand-canal-endeavor-with-expertise-from-yl-computing-and-software-services/"><u>Understanding the Vital Role of the Grand Canal Endeavor with Expertise From YL Computing & Software Services</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win11-screen-spacing-simplified-and-smoothed/"><u>Win11: Screen Spacing Simplified and Smoothed</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/yl-computing-solutions-for-firmware-upgrades-on-scanners-a-comprehensive-tutorial/"><u>YL Computing Solutions for Firmware Upgrades on Scanners - A Comprehensive Tutorial</u></a></li>
 </ul></div>
 

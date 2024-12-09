@@ -1,7 +1,7 @@
 ---
 title: Enhanced DJ Controls with Hercules P32 Upgrade to DEX-Compatible PCDJ Software
-date: 2024-11-28T16:04:27.476Z
-updated: 2024-11-30T20:30:27.228Z
+date: 2024-12-05T22:33:36.411Z
+updated: 2024-12-08T16:20:14.331Z
 tags:
   - product
 categories:
@@ -45,7 +45,7 @@ _**Note:** Improved support for some of the Hercules P32 capabilities will be av
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Hercules P32 General Features
@@ -81,7 +81,7 @@ _**Note:** Improved support for some of the Hercules P32 capabilities will be av
    * Each sample player can be individually set to Loop or Trigger mode (quantized or unquantized), and volume controlled
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Hercules P32 Specification’s
@@ -104,7 +104,7 @@ _**Note:** Improved support for some of the Hercules P32 capabilities will be av
 | Box Dimensions (LxWxH) | 16.5 x 10.8 x 3.2″ |
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -126,16 +126,22 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2016/12/herculesp32support-cover.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-navigating-the-world-of-hashtags-youtubes-best-practices/"><u>[New] 2024 Approved Navigating the World of Hashtags YouTube's Best Practices</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-initiate-investment-cost-effective-youtube-monetization-options/"><u>[Updated] 2024 Approved Initiate Investment Cost-Effective YouTube Monetization Options</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/bilateral-business-council-initiated-by-us-and-beijing-sparks-criticism-from-house-foreign-affairs-chairman-for-its-naive-approach-to-economic-diplomacy/"><u>Bilateral Business Council Initiated by US and Beijing Sparks Criticism From House Foreign Affairs Chairman for Its 'Naïve' Approach to Economic Diplomacy</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/come-recuperare-una-partizione-principale-cancellata-accidentalmente-sotto-windows-10/"><u>Come Recuperare Una Partizione Principale Cancellata Accidentalmente Sotto Windows 10</u></a></li>
-<li><a href="https://win-dash.techidaily.com/corsair-keyboard-drivers-update-for-windows-operating-system-free-and-reliable-software-download/"><u>CORSAIR Keyboard Drivers Update for Windows Operating System: Free & Reliable Software Download</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/easy-fixes-how-to-recover-forgotten-icloud-password-from-your-iphone-15-pro-max-by-drfone-ios/"><u>Easy Fixes How To Recover Forgotten iCloud Password From your iPhone 15 Pro Max</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-the-blueprint-for-a-streamlined-social-media-connection-with-linktree/"><u>In 2024, The Blueprint for a Streamlined Social Media Connection with Linktree</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/in-depth-walkthrough-restoring-deleted-items-on-a-toshiba-exfat-device/"><u>In-Depth Walkthrough: Restoring Deleted Items on a Toshiba ExFAT Device</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/sichern-sie-ihre-dateien-effizient-und-kostenlos-wie-man-ein-netzwerkdateispeichergerat-nas-nutzt-um-daten-in-die-cloud-zu-ubertragen/"><u>Sichern Sie Ihre Dateien Effizient Und Kostenlos: Wie Man Ein Netzwerkdateispeichergerät (NAS) Nutzt, Um Daten in Die Cloud Zu Übertragen</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/steps-to-restore-accidentally-deleted-items-from-the-recycle-bin-in-windows-11-8-and-7/"><u>Steps to Restore Accidentally Deleted Items From the Recycle Bin in Windows 11, 8 & 7</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/1728475938668-windows-11-3/"><u>Windows 11で削除されたファイルがゴミ箱にない場合、どうやって元に戻せば良いか? 3つの方法をご紹介</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-miniature-movie-dialogue-draft/"><u>[New] Miniature Movie Dialogue Draft</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-transformative-tech-review-magix-vpx-redefines-editing-for-2024/"><u>[New] Transformative Tech Review Magix VPX Redefines Editing for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-zoom-on-xbox-one-a-step-by-step-guide/"><u>[Updated] Mastering Zoom on Xbox One A Step-by-Step Guide</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-unleashing-win11s-potential-with-zoom-conferencing-for-2024/"><u>[Updated] Unleashing Win11's Potential with Zoom Conferencing for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/detailed-steps-to-using-azure-speech-recognition-for-2024/"><u>Detailed Steps to Using Azure Speech Recognition for 2024</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/discover-more-tools-and-settings-in-windows-control-panel-with-yl-software-insights/"><u>Discover More Tools and Settings in Windows Control Panel with YL Software Insights</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/get-up-and-running-on-pcdj-dex-3-essential-steps-unveiled-in-our-launch-video/"><u>Get Up & Running on PCDJ DEX 3: Essential Steps Unveiled in Our Launch Video</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/high-quality-ferrari-f60-american-edition-backgrounds-by-yl-computing-premium-digital-artwork-and-desktop-decor/"><u>High-Quality Ferrari F60 American Edition Backgrounds by YL Computing: Premium Digital Artwork & Desktop Decor</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-two-ways-to-sync-contacts-from-oppo-find-x6-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Two Ways to Sync Contacts from Oppo Find X6 to Gmail | Dr.fone</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/master-your-set-with-ease-discover-the-essentials-of-karaoke-cloud-pro-for-perfect-playlists/"><u>Master Your Set with Ease - Discover the Essentials of Karaoke Cloud Pro for Perfect Playlists</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/nvidia-driver-downloads-secure-and-optimized-for-windows-11-7-and-8/"><u>NVIDIA Driver Downloads - Secure & Optimized for Windows 11, 7 and 8!</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/top-strategies-to-enhance-graphics-performance-expert-advice-from-yl-computing/"><u>Top Strategies to Enhance Graphics Performance: Expert Advice From YL Computing</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/troubleshooting-your-nonfunctional-sound-card-solutions-from-yl-computings-experts/"><u>Troubleshooting Your Nonfunctional Sound Card - Solutions From YL Computing's Experts</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/understanding-potential-hazards-a-comprehensive-guide-on-crypto-asset-ownership-by-yl-computing/"><u>Understanding Potential Hazards: A Comprehensive Guide on Crypto-Asset Ownership by YL Computing</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/understanding-the-root-causes-behind-your-windows-pc-hardware-failures-insights-by-yl-software-professionals/"><u>Understanding the Root Causes Behind Your Window's PC Hardware Failures - Insights by YL Software Professionals</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unlock-a-1100-discount-on-macbook-pro-with-m1-max-at-bandh-photoblack-friday-deal-exclusive-insights-from-zdnet/"><u>Unlock a $1,100 Discount on MacBook Pro with M1 Max at B&H PhotoBlack Friday Deal - Exclusive Insights From ZDNet</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unraveling-the-concept-of-screen-time-on-iphones-a-guide-to-disabling-it/"><u>Unraveling the Concept of Screen Time on iPhones – A Guide to Disabling It</u></a></li>
 </ul></div>
 
