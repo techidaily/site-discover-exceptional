@@ -1,7 +1,7 @@
 ---
 title: Enhanced DJ Controls with Hercules P32 Upgrade to DEX-Compatible PCDJ Software
-date: 2024-12-05T22:33:36.411Z
-updated: 2024-12-08T16:20:14.331Z
+date: 2024-12-13T19:53:11.665Z
+updated: 2024-12-15T05:18:25.739Z
 tags:
   - product
 categories:
@@ -45,7 +45,7 @@ _**Note:** Improved support for some of the Hercules P32 capabilities will be av
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Hercules P32 General Features
@@ -81,7 +81,7 @@ _**Note:** Improved support for some of the Hercules P32 capabilities will be av
    * Each sample player can be individually set to Loop or Trigger mode (quantized or unquantized), and volume controlled
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Hercules P32 Specification’s
@@ -104,7 +104,7 @@ _**Note:** Improved support for some of the Hercules P32 capabilities will be av
 | Box Dimensions (LxWxH) | 16.5 x 10.8 x 3.2″ |
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -126,22 +126,14 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2016/12/herculesp32support-cover.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-miniature-movie-dialogue-draft/"><u>[New] Miniature Movie Dialogue Draft</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-transformative-tech-review-magix-vpx-redefines-editing-for-2024/"><u>[New] Transformative Tech Review Magix VPX Redefines Editing for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-mastering-zoom-on-xbox-one-a-step-by-step-guide/"><u>[Updated] Mastering Zoom on Xbox One A Step-by-Step Guide</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-unleashing-win11s-potential-with-zoom-conferencing-for-2024/"><u>[Updated] Unleashing Win11's Potential with Zoom Conferencing for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/detailed-steps-to-using-azure-speech-recognition-for-2024/"><u>Detailed Steps to Using Azure Speech Recognition for 2024</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/discover-more-tools-and-settings-in-windows-control-panel-with-yl-software-insights/"><u>Discover More Tools and Settings in Windows Control Panel with YL Software Insights</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/get-up-and-running-on-pcdj-dex-3-essential-steps-unveiled-in-our-launch-video/"><u>Get Up & Running on PCDJ DEX 3: Essential Steps Unveiled in Our Launch Video</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/high-quality-ferrari-f60-american-edition-backgrounds-by-yl-computing-premium-digital-artwork-and-desktop-decor/"><u>High-Quality Ferrari F60 American Edition Backgrounds by YL Computing: Premium Digital Artwork & Desktop Decor</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-two-ways-to-sync-contacts-from-oppo-find-x6-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Two Ways to Sync Contacts from Oppo Find X6 to Gmail | Dr.fone</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/master-your-set-with-ease-discover-the-essentials-of-karaoke-cloud-pro-for-perfect-playlists/"><u>Master Your Set with Ease - Discover the Essentials of Karaoke Cloud Pro for Perfect Playlists</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/nvidia-driver-downloads-secure-and-optimized-for-windows-11-7-and-8/"><u>NVIDIA Driver Downloads - Secure & Optimized for Windows 11, 7 and 8!</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/top-strategies-to-enhance-graphics-performance-expert-advice-from-yl-computing/"><u>Top Strategies to Enhance Graphics Performance: Expert Advice From YL Computing</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/troubleshooting-your-nonfunctional-sound-card-solutions-from-yl-computings-experts/"><u>Troubleshooting Your Nonfunctional Sound Card - Solutions From YL Computing's Experts</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/understanding-potential-hazards-a-comprehensive-guide-on-crypto-asset-ownership-by-yl-computing/"><u>Understanding Potential Hazards: A Comprehensive Guide on Crypto-Asset Ownership by YL Computing</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/understanding-the-root-causes-behind-your-windows-pc-hardware-failures-insights-by-yl-software-professionals/"><u>Understanding the Root Causes Behind Your Window's PC Hardware Failures - Insights by YL Software Professionals</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unlock-a-1100-discount-on-macbook-pro-with-m1-max-at-bandh-photoblack-friday-deal-exclusive-insights-from-zdnet/"><u>Unlock a $1,100 Discount on MacBook Pro with M1 Max at B&H PhotoBlack Friday Deal - Exclusive Insights From ZDNet</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unraveling-the-concept-of-screen-time-on-iphones-a-guide-to-disabling-it/"><u>Unraveling the Concept of Screen Time on iPhones – A Guide to Disabling It</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-smartphone-image-editing-ios-and-androids-top-picks-2e-edition/"><u>[New] In 2024, Smartphone Image Editing IOS & Android's Top Picks (2E Edition)</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-story-lore-who-are-the-premier-channels-for-2024/"><u>[New] Story Lore Who Are the Premier Channels for 2024</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/easy-guide-to-relocating-files-and-folders-on-windows-tips-by-yl-computing/"><u>Easy Guide to Relocating Files and Folders on Windows - Tips by YL Computing</u></a></li>
+<li><a href="https://video-capture.techidaily.com/how-to-ensure-your-virtual-meetings-are-documented/"><u>How to Ensure Your Virtual Meetings Are Documented</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-oneplus-ace-2-pro-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For OnePlus Ace 2 Pro by Name | Dr.fone</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/reviving-your-gpu-expert-tips-on-repairing-graphics-cards-without-a-full-replacement-insights-by-yl-computing/"><u>Reviving Your GPU: Expert Tips on Repairing Graphics Cards Without a Full Replacement - Insights by YL Computing</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/the-art-and-science-of-writing-smart-slug-lines/"><u>The Art and Science of Writing Smart Slug Lines</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/understanding-printer-error-notifications-expert-advice-by-yl-software-solutions/"><u>Understanding Printer Error Notifications: Expert Advice by YL Software Solutions</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/understanding-windows-defenders-process-of-detecting-and-protecting-against-malware-a-deep-dive-by-yl-computing/"><u>Understanding Windows Defender's Process of Detecting and Protecting Against Malware - A Deep Dive by YL Computing</u></a></li>
 </ul></div>
 

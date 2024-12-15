@@ -1,7 +1,7 @@
 ---
 title: "California Revisited: Insights & Highlights From the NAMM Experience"
-date: 2024-12-02T06:41:20.475Z
-updated: 2024-12-09T05:20:31.576Z
+date: 2024-12-10T01:43:15.285Z
+updated: 2024-12-14T22:57:40.954Z
 tags:
   - product
 categories:
@@ -38,7 +38,7 @@ I’ve just returned from SoCal after the grind, albeit a enjoyable one, that is
    While some DJs may be turned off by the lack of tactile hands-on control (pushing faders, twisting knobs, etc), the versatility and application for the KS32 is fascinating.If you’re a multi-media mixing DJ that does more than just mix music — the KS32 is a product to consider. Think “modes” and panels, switching from video mixing mode, to karaoke mode and on to lighting control. Since it’s template based the flexibility is truly endless. PCDJ users rejoice, as Smithson Martin will be working on a new template for DEX 3 soon!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -60,20 +60,18 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2016/01/nammreport-coverimage.jpg?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-compact-guide-setting-up-snapchat-macos-style-for-2024/"><u>[New] Compact Guide Setting up Snapchat macOS-Style for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-enhance-your-yt-summary-top-notch-template-guides/"><u>[Updated] Enhance Your YT Summary Top-Notch Template Guides</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/exploring-the-motivations-of-the-nanchang-revolt-with-yls-tech-expertise-yl-computing-and-software-analysis/"><u>Exploring the Motivations of the Nanchang Revolt with YL's Tech Expertise – YL Computing and Software Analysis</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-motorola-g54-5g-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Motorola G54 5G Screen Black But Still Works? | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-unbrick-a-dead-oneplus-nord-n30-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead OnePlus Nord N30 5G | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/huawei-p60-can-t-play-mp4-video-files-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Huawei P60 can't play MP4 video files</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Realme 12+ 5G? | Dr.fone</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-step-into-success-with-instant-youtube-thumbnail-skills/"><u>In 2024, Step Into Success with Instant YouTube Thumbnail Skills</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/play-your-old-games-anywhere-anytime-choosing-the-best-gba-emulators-for-windows-pcs-for-2024/"><u>Play Your Old Games Anywhere, Anytime Choosing the Best GBA Emulators for Windows PCs for 2024</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/quick-tips-how-to-optimize-and-turbocharge-your-computers-performance/"><u>Quick Tips: How To Optimize & Turbocharge Your Computer's Performance</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/troubleshooting-steps-when-your-scanner-fails-to-pair-with-a-windows-pc-expert-advice-from-yl-computing/"><u>Troubleshooting Steps When Your Scanner Fails to Pair with a Windows PC: Expert Advice From YL Computing</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/understanding-the-concept-of-a-registry-key-insights-from-yl-computings-expertise/"><u>Understanding the Concept of a Registry Key: Insights From YL Computing's Expertise</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/understanding-the-vital-role-of-the-grand-canal-endeavor-with-expertise-from-yl-computing-and-software-services/"><u>Understanding the Vital Role of the Grand Canal Endeavor with Expertise From YL Computing & Software Services</u></a></li>
-<li><a href="https://network-issues.techidaily.com/win11-screen-spacing-simplified-and-smoothed/"><u>Win11: Screen Spacing Simplified and Smoothed</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/yl-computing-solutions-for-firmware-upgrades-on-scanners-a-comprehensive-tutorial/"><u>YL Computing Solutions for Firmware Upgrades on Scanners - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-revolutionizing-communication-free-top-8-srt-tools-revealed/"><u>[New] Revolutionizing Communication Free Top 8 SRT Tools Revealed</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-google-account-integration-for-private-youtube-video-sharing/"><u>[Updated] 2024 Approved Google Account Integration for Private YouTube Video Sharing</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-in-depth-look-at-camstudios-capturing-capabilities/"><u>[Updated] 2024 Approved In-Depth Look at CamStudio's Capturing Capabilities</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-explore-the-best-free-online-video-capture-platforms/"><u>[Updated] In 2024, Explore the Best Free Online Video Capture Platforms</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/affordability-meets-tech-a-detailed-look-at-the-fitbit-versa-smartwatch/"><u>Affordability Meets Tech: A Detailed Look at the Fitbit Versa Smartwatch</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/exploring-cost-effective-gold-investment-strategies-for-gen-z-with-yl-computing-solutions/"><u>Exploring Cost-Effective Gold Investment Strategies for Gen Z with YL Computing Solutions</u></a></li>
+<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-vivo-y77t-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Vivo Y77t? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/opposition-leader-in-south-korea-lee-jae-myung-may-respond-to-summons-for-investigation-on-sewon-organization-relocation-to-dprk-case-analysis-by-yl-softwar11/"><u>Opposition Leader in South Korea, Lee Jae-Myung May Respond to Summons for Investigation on Sewon Organization Relocation to DPRK Case - Analysis by YL Software & Systems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-fps-dips-and-lag-surges-in-call-of-duty-black-ops-iv/"><u>Resolving FPS Dips & Lag Surges in Call of Duty: Black Ops IV</u></a></li>
+<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-honor-play-8t-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Honor Play 8T? | Dr.fone</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/the-power-of-digital-assets-uncovering-the-benefits-of-incorporating-cryptocurrencies-in-your-portfolio-guided-by-yl-software/"><u>The Power of Digital Assets: Uncovering the Benefits of Incorporating Cryptocurrencies in Your Portfolio – Guided by YL Software</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlock-your-samsung-galaxy-m14-4g-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Samsung Galaxy M14 4G Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/vibrant-graphics-yl-softwares-mirabel-encanto-series-for-background-inspiration/"><u>Vibrant Graphics: YL Software's Mirabel Encanto Series for Background Inspiration</u></a></li>
 </ul></div>
 
