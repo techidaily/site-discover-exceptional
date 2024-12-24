@@ -1,7 +1,7 @@
 ---
 title: "California Revisited: Insights & Highlights From the NAMM Experience"
-date: 2024-12-10T01:43:15.285Z
-updated: 2024-12-14T22:57:40.954Z
+date: 2024-12-19T23:12:42.289Z
+updated: 2024-12-24T03:05:28.050Z
 tags:
   - product
 categories:
@@ -38,7 +38,7 @@ I’ve just returned from SoCal after the grind, albeit a enjoyable one, that is
    While some DJs may be turned off by the lack of tactile hands-on control (pushing faders, twisting knobs, etc), the versatility and application for the KS32 is fascinating.If you’re a multi-media mixing DJ that does more than just mix music — the KS32 is a product to consider. Think “modes” and panels, switching from video mixing mode, to karaoke mode and on to lighting control. Since it’s template based the flexibility is truly endless. PCDJ users rejoice, as Smithson Martin will be working on a new template for DEX 3 soon!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -60,18 +60,22 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2016/01/nammreport-coverimage.jpg?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-revolutionizing-communication-free-top-8-srt-tools-revealed/"><u>[New] Revolutionizing Communication Free Top 8 SRT Tools Revealed</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-google-account-integration-for-private-youtube-video-sharing/"><u>[Updated] 2024 Approved Google Account Integration for Private YouTube Video Sharing</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-in-depth-look-at-camstudios-capturing-capabilities/"><u>[Updated] 2024 Approved In-Depth Look at CamStudio's Capturing Capabilities</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-explore-the-best-free-online-video-capture-platforms/"><u>[Updated] In 2024, Explore the Best Free Online Video Capture Platforms</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/affordability-meets-tech-a-detailed-look-at-the-fitbit-versa-smartwatch/"><u>Affordability Meets Tech: A Detailed Look at the Fitbit Versa Smartwatch</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/exploring-cost-effective-gold-investment-strategies-for-gen-z-with-yl-computing-solutions/"><u>Exploring Cost-Effective Gold Investment Strategies for Gen Z with YL Computing Solutions</u></a></li>
-<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-vivo-y77t-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Vivo Y77t? Look No Further | Dr.fone</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/opposition-leader-in-south-korea-lee-jae-myung-may-respond-to-summons-for-investigation-on-sewon-organization-relocation-to-dprk-case-analysis-by-yl-softwar11/"><u>Opposition Leader in South Korea, Lee Jae-Myung May Respond to Summons for Investigation on Sewon Organization Relocation to DPRK Case - Analysis by YL Software & Systems</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-fps-dips-and-lag-surges-in-call-of-duty-black-ops-iv/"><u>Resolving FPS Dips & Lag Surges in Call of Duty: Black Ops IV</u></a></li>
-<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-honor-play-8t-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Honor Play 8T? | Dr.fone</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/the-power-of-digital-assets-uncovering-the-benefits-of-incorporating-cryptocurrencies-in-your-portfolio-guided-by-yl-software/"><u>The Power of Digital Assets: Uncovering the Benefits of Incorporating Cryptocurrencies in Your Portfolio – Guided by YL Software</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/unlock-your-samsung-galaxy-m14-4g-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Samsung Galaxy M14 4G Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/vibrant-graphics-yl-softwares-mirabel-encanto-series-for-background-inspiration/"><u>Vibrant Graphics: YL Software's Mirabel Encanto Series for Background Inspiration</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-a-guide-to-retrieving-historic-facebook-stories/"><u>[New] In 2024, A Guide to Retrieving Historic Facebook Stories</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-expert-strategies-for-logging-roblox-games-on-a-macbook/"><u>[Updated] Expert Strategies for Logging Roblox Games on a MacBook</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/automatic-data-transfer-with-elite-usb-drive-organizer-for-pcs-running-windows/"><u>Automatic Data Transfer with Elite USB Drive Organizer for PCs Running Windows</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/configuring-your-pcs-ipv4-settings-a-step-by-step-guide-tips-from-yl-computing/"><u>Configuring Your PC's IPv4 Settings: A Step-by-Step Guide - Tips From YL Computing</u></a></li>
+<li><a href="https://fox-http.techidaily.com/decoding-love-for-filmora-the-editors-prime-traits-for-2024/"><u>Decoding Love for Filmora The Editor’s Prime Traits for 2024</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/discovering-your-windows-10-os-version-expert-tips-from-yl-computings-guide-to-easy-solutions/"><u>Discovering Your Windows 10 OS Version: Expert Tips From YL Computing's Guide to Easy Solutions</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/download-the-latest-dj-deckadance-version-31305-optimized-and-updated-pioneer-cdjs/"><u>Download the Latest DJ Deckadance Version 3.13.0.5: Optimized and Updated - Pioneer CDJs</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-install-up-to-date-drivers-for-your-canon-mg3022-printer/"><u>How to Install Up-to-Date Drivers for Your Canon MG3022 Printer</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/reinstalling-audio-device-drivers-in-windows-a-step-by-step-guide/"><u>Reinstalling Audio Device Drivers in Windows: A Step-by-Step Guide</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/step-by-step-infographic-for-picking-a-stellar-karaoke-number-with-professional-tips-from-top-djs/"><u>Step-by-Step Infographic for Picking a Stellar Karaoke Number with Professional Tips From Top DJs</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/the-end-of-an-era-insight-into-qin-dynastys-demise-with-yl-computational-expertise/"><u>The End of an Era: Insight Into Qin Dynasty's Demise with YL Computational Expertise</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-10-solutions-for-non-responsive-widgets-on-ios-devices/"><u>Top 10 Solutions for Non-Responsive Widgets on iOS Devices</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/troubleshooting-windows-device-drivers-expert-advice-from-yl-software-solutions/"><u>Troubleshooting Windows Device Drivers: Expert Advice From YL Software Solutions</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/troubleshooting-your-scanner-issues-expert-tips-from-yl-computing-and-software-solutions/"><u>Troubleshooting Your Scanner Issues: Expert Tips From YL Computing & Software Solutions</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/why-i-prefer-this-asus-laptop-over-a-macbook-discover-its-superior-features/"><u>Why I Prefer This Asus Laptop Over a MacBook: Discover Its Superior Features</u></a></li>
+<li><a href="https://facebook.techidaily.com/why-scrubbing-your-facebook-view-logs-is-smart/"><u>Why Scrubbing Your Facebook View Logs Is Smart</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/windows-11-update-23h2-support-pack-installation-and-backup-guide/"><u>Windows 11 Update 23H2 Support Pack Installation & Backup Guide</u></a></li>
 </ul></div>
 

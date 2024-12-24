@@ -1,7 +1,7 @@
 ---
 title: Enhanced DJ Controls with Hercules P32 Upgrade to DEX-Compatible PCDJ Software
-date: 2024-12-13T19:53:11.665Z
-updated: 2024-12-15T05:18:25.739Z
+date: 2024-12-17T19:44:55.923Z
+updated: 2024-12-24T06:31:22.275Z
 tags:
   - product
 categories:
@@ -45,7 +45,7 @@ _**Note:** Improved support for some of the Hercules P32 capabilities will be av
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Hercules P32 General Features
@@ -81,7 +81,7 @@ _**Note:** Improved support for some of the Hercules P32 capabilities will be av
    * Each sample player can be individually set to Loop or Trigger mode (quantized or unquantized), and volume controlled
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Hercules P32 Specification’s
@@ -104,7 +104,7 @@ _**Note:** Improved support for some of the Hercules P32 capabilities will be av
 | Box Dimensions (LxWxH) | 16.5 x 10.8 x 3.2″ |
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -126,14 +126,15 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2016/12/herculesp32support-cover.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-smartphone-image-editing-ios-and-androids-top-picks-2e-edition/"><u>[New] In 2024, Smartphone Image Editing IOS & Android's Top Picks (2E Edition)</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-story-lore-who-are-the-premier-channels-for-2024/"><u>[New] Story Lore Who Are the Premier Channels for 2024</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/easy-guide-to-relocating-files-and-folders-on-windows-tips-by-yl-computing/"><u>Easy Guide to Relocating Files and Folders on Windows - Tips by YL Computing</u></a></li>
-<li><a href="https://video-capture.techidaily.com/how-to-ensure-your-virtual-meetings-are-documented/"><u>How to Ensure Your Virtual Meetings Are Documented</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-oneplus-ace-2-pro-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For OnePlus Ace 2 Pro by Name | Dr.fone</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/reviving-your-gpu-expert-tips-on-repairing-graphics-cards-without-a-full-replacement-insights-by-yl-computing/"><u>Reviving Your GPU: Expert Tips on Repairing Graphics Cards Without a Full Replacement - Insights by YL Computing</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/the-art-and-science-of-writing-smart-slug-lines/"><u>The Art and Science of Writing Smart Slug Lines</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/understanding-printer-error-notifications-expert-advice-by-yl-software-solutions/"><u>Understanding Printer Error Notifications: Expert Advice by YL Software Solutions</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/understanding-windows-defenders-process-of-detecting-and-protecting-against-malware-a-deep-dive-by-yl-computing/"><u>Understanding Windows Defender's Process of Detecting and Protecting Against Malware - A Deep Dive by YL Computing</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-aerial-device-typologies-for-2024/"><u>[New] Aerial Device Typologies for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-creative-minds-guide-to-preferred-mac-editors-for-2024/"><u>[New] Creative Minds' Guide to Preferred Mac Editors for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/conversion-libre-de-fichier-3gp-a-format-mp4-enligne-guide-facile-pour-tout-le-monde-avec-nom-du-service/"><u>Conversion Libre De Fichier 3GP À Format MP4 Enligne : Guide Facile Pour Tout Le Monde Avec [Nom Du Service]</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/discovering-ellie-an-in-depth-exploration-of-the-renowned-writers-biography/"><u>Discovering Ellie - An In-Depth Exploration of the Renowned Writer's Biography</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/effortless-file-transfer-on-windows-a-step-by-step-guide-from-yl-software-experts/"><u>Effortless File Transfer on Windows: A Step-by-Step Guide From YL Software Experts</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/get-your-white-out-templates-now-compatible-with-all-dex-3-editions-by-pioneer-dj/"><u>Get Your White Out Templates Now! Compatible with All DEX 3 Editions by Pioneer DJ</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/how-can-i-effectively-purify-and-optimize-my-pcs-performance-expert-tips-from-yl-computing/"><u>How Can I Effectively Purify and Optimize My PC's Performance: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/step-by-step-guide-customizing-your-mouse-and-touchpad-preferences-tips-by-yl-computing/"><u>Step-by-Step Guide: Customizing Your Mouse & Touchpad Preferences - Tips by YL Computing</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-to-tiktok-video-amplification-for-2024/"><u>The Ultimate Guide to TikTok Video Amplification for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-itel-a70-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Itel A70 | Dr.fone</u></a></li>
 </ul></div>
 

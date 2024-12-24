@@ -1,7 +1,7 @@
 ---
 title: "DJ Program Update: Dex 3.12 Beta Now Live with Added Karaoke Store Functionality - PCDJ"
-date: 2024-12-12T01:58:17.847Z
-updated: 2024-12-15T00:46:41.525Z
+date: 2024-12-22T04:46:58.173Z
+updated: 2024-12-23T22:58:10.261Z
 tags:
   - product
 categories:
@@ -33,7 +33,7 @@ Since version 3.12 is considered a ‘[Public Beta](https://en.wikipedia.org/wik
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed, or Fixed in DEX 3 Version 3.12
@@ -52,7 +52,7 @@ _**Installation Instructions:** With your existing version of DEX 3 (Pro) closed
 _Have questions about our **top DJ mixing software** or the new features included in version 3.12? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -74,18 +74,24 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2018/11/karaoke-dex3-new-cover.jpg
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-secure-and-quality-the-best-5-conference-recorders-online/"><u>[Updated] 2024 Approved Secure & Quality The Best 5 Conference Recorders Online</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-smart-mp4-transformer-for-immediate-fb-embedding/"><u>[Updated] Smart MP4 Transformer for Immediate FB Embedding</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-craft-a-symphony-for-screens-mastering-music-editing-in-canva/"><u>2024 Approved Craft a Symphony for Screens Mastering Music Editing in Canva</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/audio-acquirers-almanac-save-and-scrutinize-songs-for-2024/"><u>Audio Acquirer's Almanac Save & Scrutinize Songs for 2024</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/connecting-seamlessly-a-step-by-step-guide-to-joining-wifi-networks-yl-tech-tips/"><u>Connecting Seamlessly: A Step-by-Step Guide to Joining WiFi Networks - YL Tech Tips</u></a></li>
-<li><a href="https://fox-http.techidaily.com/easy-acquisition-of-individual-ending-music-files-for-2024/"><u>Easy Acquisition of Individual Ending Music Files for 2024</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/guide-securely-using-windows-defender-to-check-your-usbs-and-portable-drives-expert-advice-from-yl-software/"><u>Guide: Securely Using Windows Defender to Check Your USBs and Portable Drives – Expert Advice From YL Software</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Tecno Spark 10C? | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-master-pip-feature-while-consuming-youtube-videos-on-iphones/"><u>In 2024, Master PIP Feature While Consuming YouTube Videos on iPhones</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/master-your-stage-every-night-premium-karaoke-on-demand-via-karaoke-cloud-pro/"><u>Master Your Stage, Every Night: Premium Karaoke on Demand via Karaoke Cloud Pro</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/optimizing-your-pcs-storage-effective-methods-to-reclaim-precious-disk-space-tips-from-yl-computing/"><u>Optimizing Your PC's Storage: Effective Methods to Reclaim Precious Disk Space - Tips From YL Computing</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/windows-file-cloning-made-simple-expert-advice-by-yl-software-team/"><u>Windows File Cloning Made Simple - Expert Advice by YL Software Team</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/yl-softwares-guide-how-well-does-windows-defender-protect-against-new-cybersecurity-risks/"><u>YL Software's Guide: How Well Does Windows Defender Protect Against New Cybersecurity Risks?</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-is-sns-hdr-pro-worth-it-top-alternatives-reviewed/"><u>[New] In 2024, Is SNS HDR Pro Worth It? Top Alternatives Reviewed</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-seamless-switch-to-virtual-reality-your-phones-next-step/"><u>[New] Seamless Switch to Virtual Reality Your Phone's Next Step</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-crafting-spectacular-hdr-images-blending-tips-in-adobe-lightroom/"><u>[Updated] 2024 Approved Crafting Spectacular HDR Images Blending Tips in Adobe Lightroom</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-expert-tips-capturing-high-quality-whatsapp-voice-transcripts/"><u>[Updated] 2024 Approved Expert Tips Capturing High-Quality WhatsApp Voice Transcripts</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-streamlined-strategy-to-create-your-custom-youtube-queue/"><u>[Updated] Streamlined Strategy to Create Your Custom YouTube Queue</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1722209802261-beware-of-these-5-common-chatbot-scams-protect-yourself-now/"><u>Beware of These 5 Common Chatbot Scams: Protect Yourself Now</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/bypassing-windows-11-startup-glitches-a-guide-to-fixing-the-stuck-ready-for-activation-page-with-ease/"><u>Bypassing Windows 11 Startup Glitches: A Guide to Fixing the Stuck 'Ready for Activation' Page with Ease</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/discover-more-tools-and-settings-in-windows-control-panel-with-yl-software-insights/"><u>Discover More Tools and Settings in Windows Control Panel with YL Software Insights</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/easing-anxiety-with-intelligent-ai-help/"><u>Easing Anxiety with Intelligent AI Help</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/effective-techniques-to-halt-non-essential-background-applications-insights-from-yl-computing/"><u>Effective Techniques to Halt Non-Essential Background Applications: Insights From YL Computing</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/get-up-and-running-on-pcdj-dex-3-essential-steps-unveiled-in-our-launch-video/"><u>Get Up & Running on PCDJ DEX 3: Essential Steps Unveiled in Our Launch Video</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/how-to-fix-a-non-charging-laptop-expert-tips-from-yl-computing/"><u>How to Fix a Non-Charging Laptop: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/identifying-signs-of-overheating-in-your-pc-expert-guide-yl-tech-support/"><u>Identifying Signs of Overheating in Your PC: Expert Guide - YL Tech Support</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/master-your-set-with-ease-discover-the-essentials-of-karaoke-cloud-pro-for-perfect-playlists/"><u>Master Your Set with Ease - Discover the Essentials of Karaoke Cloud Pro for Perfect Playlists</u></a></li>
+<li><a href="https://video-capture.techidaily.com/modify-mac-screen-shot-storage-path-for-2024/"><u>Modify Mac Screen Shot Storage Path for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/uncovering-solutions-troubleshooting-missing-youtube-comments-effectively/"><u>Uncovering Solutions: Troubleshooting Missing YouTube Comments Effectively</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/understanding-the-root-causes-behind-your-windows-pc-hardware-failures-insights-by-yl-software-professionals/"><u>Understanding the Root Causes Behind Your Window's PC Hardware Failures - Insights by YL Software Professionals</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/upgrade-your-beats-with-the-latest-pcdj-version-39n7-now-supports-dexons-premium-editions-re-and-le-dj-software-revolution/"><u>Upgrade Your Beats with the Latest PCDJ Version 3.9.n7: Now Supports Dexon's Premium Editions RE and LE – DJ Software Revolution!</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/yl-softwares-guide-to-confidentially-checking-your-bitcoin-address-balance-the-ultimate-tool-for-digital-security/"><u>YL Software’s Guide to Confidentially Checking Your Bitcoin Address Balance – The Ultimate Tool for Digital Security</u></a></li>
 </ul></div>
 
