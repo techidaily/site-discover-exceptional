@@ -1,7 +1,7 @@
 ---
 title: Free Hercules MIDI Control Software - DJControl Compact Edition for DEX3, Download & Guide
-date: 2024-12-22T07:50:45.427Z
-updated: 2024-12-24T00:22:43.773Z
+date: 2024-12-23T22:23:39.075Z
+updated: 2024-12-29T21:40:33.656Z
 tags:
   - product
 categories:
@@ -39,7 +39,7 @@ If you’re a DJ on the go that values portability without too much sacrifice th
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Here’s What Hercules DJ Say’s About The DJControl Compact
@@ -75,7 +75,7 @@ If you’re a DJ on the go that values portability without too much sacrifice th
 _Have questions about the **Hercules DJControl Compact** or how to use **DJ controllers** with our **DJ software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -97,24 +97,24 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2016/08/herculesdjcontrolcompact-c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-inshot-cut-mastery-creating-fluid-movements/"><u>[New] In 2024, Inshot Cut Mastery Creating Fluid Movements</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-peak-psd-opacity-adjustments-for-2024/"><u>[New] Peak PSD Opacity Adjustments for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-how-to-produce-high-impact-low-cost-youtube-ads-in-2024/"><u>[Updated] How to Produce High-Impact, Low-Cost YouTube Ads, In 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-decision-time-choose-your-dream-video-editor-filmora-or-democracy-creator/"><u>2024 Approved Decision Time! Choose Your Dream Video Editor (Filmora or Democracy Creator)</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-expert-advice-extracting-and-saving-tweets-video-files-in-android/"><u>2024 Approved Expert Advice Extracting & Saving Tweets' Video Files in Android</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-maximize-ms-edge-usage-understanding-and-using-picture-in-picture/"><u>2024 Approved Maximize MS Edge Usage Understanding and Using Picture-in-Picture</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/detecting-defective-port-links-a-guide-by-yl-computing-and-yl-software/"><u>Detecting Defective Port Links: A Guide by YL Computing & YL Software</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/effortless-file-transfer-on-windows-a-step-by-step-guide-from-yl-software-experts/"><u>Effortless File Transfer on Windows: A Step-by-Step Guide From YL Software Experts</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/expand-your-screen-space-with-yls-expert-tips-for-multi-monitor-setups/"><u>Expand Your Screen Space with YL's Expert Tips for Multi-Monitor Setups!</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/how-to-select-the-best-storage-devices-for-effective-file-backup-insights-from-yl-computing/"><u>How to Select the Best Storage Devices for Effective File Backup: Insights From YL Computing</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-smooth-out-the-play-in-battlefield-5-a-complete-lag-free-solution-list/"><u>How to Smooth Out the Play in Battlefield 5 – A Complete Lag-Free Solution List</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Infinix Zero 5G 2023 Turbo? | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-optimizing-conversion-processes-from-xml-to-high-quality-srts/"><u>In 2024, Optimizing Conversion Processes From XML to High-Quality SRTs</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/solving-graphics-card-malfunctions-a-comprehensive-guide-from-yl-software/"><u>Solving Graphics Card Malfunctions: A Comprehensive Guide From YL Software</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/speedyview-streams-instant-access-to-complimentary-vids-and-elite-video-library/"><u>SpeedyView Streams: Instant Access to Complimentary Vids & Elite Video Library</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/step-by-step-guide-customizing-your-mouse-and-touchpad-preferences-tips-by-yl-computing/"><u>Step-by-Step Guide: Customizing Your Mouse & Touchpad Preferences - Tips by YL Computing</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/tailor-your-windows-11-experience-with-our-expert-instructions-on-modifying-the-start-menu-by-yl-software/"><u>Tailor Your Windows 11 Experience with Our Expert Instructions on Modifying the Start Menu by YL Software</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/unveiling-the-distinctions-restore-vs-recover-data-insights-with-yl-computing/"><u>Unveiling the Distinctions: Restore Vs. Recover - Data Insights with YL Computing</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/upgrading-your-systems-psu-on-the-cheap-with-yl-computing-instructions/"><u>Upgrading Your System's PSU on the Cheap with YL Computing Instructions</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-how-to-edit-podcasts-in-garageband-for-2024/"><u>[New] How To Edit Podcasts in GarageBand for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-seamlessly-engage-fb-live-on-your-roku-screen-for-2024/"><u>[New] Seamlessly Engage FB Live on Your Roku Screen for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-turn-games-into-memories-no-fuss-nvidia-style/"><u>[Updated] 2024 Approved Turn Games Into Memories - No Fuss, NVIDIA Style</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-strategic-use-of-creative-commons-copyright-law/"><u>[Updated] Strategic Use of Creative Commons Copyright Law</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-swiftstrike-timetape-recording/"><u>2024 Approved SwiftStrike TimeTape Recording</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-insufficient-privileges-for-app-updates-on-windows-oses/"><u>Bypassing Insufficient Privileges for App Updates on Windows OSes</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/checking-your-windows-defender-status-is-it-current-insights-from-yl-computing/"><u>Checking Your Windows Defender Status: Is It Current? - Insights From YL Computing</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/discover-inbuilt-data-recovery-options-within-windows-a-guide-by-yl-software-experts/"><u>Discover Inbuilt Data Recovery Options Within Windows - A Guide by YL Software Experts</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/discover-the-leaders-who-inaugurated-prc-in-1949-a-detailed-analysis-by-yl-solutions/"><u>Discover the Leaders Who Inaugurated PRC in 1949: A Detailed Analysis by YL Solutions</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/exploring-the-benefits-of-cryptocurrency-vs-conventional-money-insights-by-yl-computing/"><u>Exploring the Benefits of Cryptocurrency Vs. Conventional Money: Insights by YL Computing</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/harmonic-mixing-mastery-with-dex-3-discovering-tune-compatibility-for-seamless-dj-sets/"><u>Harmonic Mixing Mastery with DEX 3: Discovering Tune Compatibility for Seamless DJ Sets</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/hd-nature-landscapes-and-serene-vistas-stunning-wallpaper-collections-by-yl-computing/"><u>HD Nature Landscapes & Serene Vistas: Stunning Wallpaper Collections by YL Computing</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/how-can-you-fix-a-non-responsive-mouse-on-your-pc-expert-solutions-from-yl-computing/"><u>How Can You Fix a Non-Responsive Mouse on Your PC? Expert Solutions From YL Computing</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-change-your-facebook-password/"><u>How to Change Your Facebook Password</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-honor-magic-5-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Honor Magic 5? | Dr.fone</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/solving-hardware-compatibility-problems-expert-guide-by-yl-computing/"><u>Solving Hardware Compatibility Problems: Expert Guide by YL Computing</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-guide-comparing-all-types-of-ipads/"><u>Ultimate Guide: Comparing All Types of iPads</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/unlock-endless-entertainment-why-you-need-a-party-tyme-karaoke-membership-today/"><u>Unlock Endless Entertainment: Why You Need a Party Tyme Karaoke Membership Today!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-6-free-substitutes-for-the-popular-openai-sora-platform/"><u>Unveiling 6 Free Substitutes for the Popular OpenAI Sora Platform</u></a></li>
 </ul></div>
 

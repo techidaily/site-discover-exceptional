@@ -1,7 +1,7 @@
 ---
 title: "DJ Program Update: Dex 3.12 Beta Now Live with Added Karaoke Store Functionality - PCDJ"
-date: 2024-12-22T04:46:58.173Z
-updated: 2024-12-23T22:58:10.261Z
+date: 2024-12-24T21:08:30.831Z
+updated: 2024-12-29T18:53:53.906Z
 tags:
   - product
 categories:
@@ -33,7 +33,7 @@ Since version 3.12 is considered a ‘[Public Beta](https://en.wikipedia.org/wik
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed, or Fixed in DEX 3 Version 3.12
@@ -52,7 +52,7 @@ _**Installation Instructions:** With your existing version of DEX 3 (Pro) closed
 _Have questions about our **top DJ mixing software** or the new features included in version 3.12? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -74,24 +74,24 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2018/11/karaoke-dex3-new-cover.jpg
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-is-sns-hdr-pro-worth-it-top-alternatives-reviewed/"><u>[New] In 2024, Is SNS HDR Pro Worth It? Top Alternatives Reviewed</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-seamless-switch-to-virtual-reality-your-phones-next-step/"><u>[New] Seamless Switch to Virtual Reality Your Phone's Next Step</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-crafting-spectacular-hdr-images-blending-tips-in-adobe-lightroom/"><u>[Updated] 2024 Approved Crafting Spectacular HDR Images Blending Tips in Adobe Lightroom</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-expert-tips-capturing-high-quality-whatsapp-voice-transcripts/"><u>[Updated] 2024 Approved Expert Tips Capturing High-Quality WhatsApp Voice Transcripts</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-streamlined-strategy-to-create-your-custom-youtube-queue/"><u>[Updated] Streamlined Strategy to Create Your Custom YouTube Queue</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1722209802261-beware-of-these-5-common-chatbot-scams-protect-yourself-now/"><u>Beware of These 5 Common Chatbot Scams: Protect Yourself Now</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/bypassing-windows-11-startup-glitches-a-guide-to-fixing-the-stuck-ready-for-activation-page-with-ease/"><u>Bypassing Windows 11 Startup Glitches: A Guide to Fixing the Stuck 'Ready for Activation' Page with Ease</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/discover-more-tools-and-settings-in-windows-control-panel-with-yl-software-insights/"><u>Discover More Tools and Settings in Windows Control Panel with YL Software Insights</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/easing-anxiety-with-intelligent-ai-help/"><u>Easing Anxiety with Intelligent AI Help</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/effective-techniques-to-halt-non-essential-background-applications-insights-from-yl-computing/"><u>Effective Techniques to Halt Non-Essential Background Applications: Insights From YL Computing</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/get-up-and-running-on-pcdj-dex-3-essential-steps-unveiled-in-our-launch-video/"><u>Get Up & Running on PCDJ DEX 3: Essential Steps Unveiled in Our Launch Video</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/how-to-fix-a-non-charging-laptop-expert-tips-from-yl-computing/"><u>How to Fix a Non-Charging Laptop: Expert Tips From YL Computing</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/identifying-signs-of-overheating-in-your-pc-expert-guide-yl-tech-support/"><u>Identifying Signs of Overheating in Your PC: Expert Guide - YL Tech Support</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/master-your-set-with-ease-discover-the-essentials-of-karaoke-cloud-pro-for-perfect-playlists/"><u>Master Your Set with Ease - Discover the Essentials of Karaoke Cloud Pro for Perfect Playlists</u></a></li>
-<li><a href="https://video-capture.techidaily.com/modify-mac-screen-shot-storage-path-for-2024/"><u>Modify Mac Screen Shot Storage Path for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/uncovering-solutions-troubleshooting-missing-youtube-comments-effectively/"><u>Uncovering Solutions: Troubleshooting Missing YouTube Comments Effectively</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/understanding-the-root-causes-behind-your-windows-pc-hardware-failures-insights-by-yl-software-professionals/"><u>Understanding the Root Causes Behind Your Window's PC Hardware Failures - Insights by YL Software Professionals</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/upgrade-your-beats-with-the-latest-pcdj-version-39n7-now-supports-dexons-premium-editions-re-and-le-dj-software-revolution/"><u>Upgrade Your Beats with the Latest PCDJ Version 3.9.n7: Now Supports Dexon's Premium Editions RE and LE – DJ Software Revolution!</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/yl-softwares-guide-to-confidentially-checking-your-bitcoin-address-balance-the-ultimate-tool-for-digital-security/"><u>YL Software’s Guide to Confidentially Checking Your Bitcoin Address Balance – The Ultimate Tool for Digital Security</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-advanced-live-broadcast-setup-from-obs-to-fb-enthusiasts/"><u>[New] 2024 Approved Advanced Live Broadcast Setup From OBS to FB Enthusiasts</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-master-guide-collages-creation-made-easy/"><u>[Updated] Master Guide Collages Creation Made Easy</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-streamlabs-vs-obs-assessing-the-leading-livestream-tools/"><u>[Updated] Streamlabs Vs. OBS Assessing the Leading Livestream Tools</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/1-discover-how-to-locate-hidden-files-on-your-pc-using-windows-a-guide-by-yl-computing/"><u>1. Discover How to Locate Hidden Files on Your PC Using Windows - A Guide by YL Computing</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-mental-marathons-in-elite-escapade-venues/"><u>2024 Approved Mental Marathons in Elite Escapade Venues</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-the-pinnacle-of-vr-how-htc-vive-transforms-playtime/"><u>2024 Approved The Pinnacle of VR How HTC Vive Transforms Playtime</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/affordable-innovation-discover-the-top-5-house-from-a-box-options-under-50k-zdnet/"><u>Affordable Innovation: Discover the Top 5 House From a Box Options Under $50K | ZDnet</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/can-i-trust-bitcoin-address-verifiers-a-safety-guide-by-yl-computing/"><u>Can I Trust Bitcoin Address Verifiers: A Safety Guide by YL Computing</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/high-definition-dark-phoenix-desktop-backgrounds-and-static-wallpaper-collection-premium-designs-by-yl-computing/"><u>High Definition Dark Phoenix Desktop Backgrounds & Static Wallpaper Collection - Premium Designs by YL Computing</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/identifying-and-fixing-the-causes-of-a-hot-running-laptop-with-yl-software-tips/"><u>Identifying & Fixing the Causes of a Hot-Running Laptop with YL Software Tips</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-unveiling-high-definition-with-lgs-31mu97-b-digital-cinema-screen/"><u>In 2024, Unveiling High Definition with LG's 31MU97-B Digital Cinema Screen</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/lcv-video-monitoring-analysis-for-2024/"><u>LCV Video Monitoring Analysis for 2024</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/maximizing-computer-speed-and-power-essential-components-for-an-effective-upgrade-guidance-by-yl-software/"><u>Maximizing Computer Speed and Power: Essential Components for an Effective Upgrade – Guidance by YL Software</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/seamless-windows-operating-system-updates-explained-by-the-experts-at-yl-software/"><u>Seamless Window's Operating System Updates Explained by the Experts at YL Software</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/solving-hard-drive-woes-a-step-by-step-guide-by-yl-software-specialists/"><u>Solving Hard Drive Woes: A Step-by-Step Guide by YL Software Specialists</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/the-end-of-rdo-crashes-expert-tips-and-fixes-for-a-seamless-gaming-experience/"><u>The End of RDO Crashes: Expert Tips and Fixes for a Seamless Gaming Experience</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-xiaomi-redmi-note-12-pro-5g-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Xiaomi Redmi Note 12 Pro 5G Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/transformations-in-china-analyzing-political-and-economic-shifts-post-communist-revolution-insights-by-yl-computing/"><u>Transformations in China: Analyzing Political & Economic Shifts Post-Communist Revolution - Insights by YL Computing</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/yl-computings-stunning-abstraction-brilliant-azure-lights-on-midnight-blue-hd-background-for-your-phone-or-tablet/"><u>YL Computing's Stunning Abstraction: Brilliant Azure Lights on Midnight Blue HD Background for Your Phone or Tablet</u></a></li>
 </ul></div>
 

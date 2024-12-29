@@ -1,7 +1,7 @@
 ---
 title: 2016年版 Windows Server起動準備手順 - CMD使い方詳解
-date: 2024-12-19T07:55:41.974Z
-updated: 2024-12-23T17:45:07.400Z
+date: 2024-12-27T20:35:05.565Z
+updated: 2024-12-29T17:43:26.137Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/1d9ebf5bb7f01c1686988d2dbf12477c216dfe196b34a2ea4b98d961a480d427.jpg
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/1d9ebf5bb7f01c1686988d2dbf12477c216dfe196
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Solved: Winload. efi Missing in Windows 11 | 2024
 
 Encounter the "winload.efi is missing or contains errors" error during computer boot? Discover potential reasons and find solutions to fix the winload.efi problem in Windows 11, 10, 8, 7 here.
@@ -31,6 +27,10 @@ Encounter the "winload.efi is missing or contains errors" error during computer 
 By[Maggie](https://tools.techidaily.com/ubackup/products/)Updated on December 28, 2023
 
 Share this: ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Table of Contents** 
 
@@ -52,10 +52,6 @@ My HP is not starting up. I’ve received the ‘winload efi is missing or corru
 
 [![Winload.efi Error 0xc0000225](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/winload-efi-after-clone/winload-efi-error-0xc0000225.png "Winload.efi Error 0xc0000225")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 If you meet similar problems that you can’t find winload.efi, you have been in the right place. Here is a collection of methods to solve ‘winload.efi missing Windows 11 issue. Let’s start to go!
 
 ## About winload.efi file
@@ -74,9 +70,17 @@ Causes of "winload.efi missing or contains error after clone" issues:
 **4\. Cloning Without Modifications**: Cloning a Windows installation without making necessary modifications can lead to boot problems, such as the winload.efi missing or containing error after clone.  
 **5\. Motherboard Replacement**: Replacing or modifying a computer's motherboard may cause problems with devices and drivers, potentially triggering the "winload.efi" problem if not addressed.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Fix winload.efi missing
 
 The "winload.efi missing" error happens when the OS can't find or access the winload.efi file. To fix this issue, 5 solutions are provided. You can directly navigate to the specific method you need or go through each solution sequentially.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Option 1\. Use the Boot Repair Tool
 
@@ -98,6 +102,10 @@ Step 2\. Select a type of bootable media you want to create and click **Next** t
 
 [![Winpe](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/adv/tools/create-bootable-media/winpe.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 3\. Select the CD, DVD, USB drive or ISO file as bootable media. Then click **Next** to create system repair disc in Windows 11.
 
 [![Choose Bootable Media](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/adv/tools/create-bootable-media/choose-bootable-media.png)
@@ -105,10 +113,6 @@ Step 3\. Select the CD, DVD, USB drive or ISO file as bootable media. Then click
 After creating bootable media (just a few minutes), boot your computer from this media, then AOMEI Backupper will run automatically, then go to **Tools** \-> **Windows Shell Command**. And you can restore system image or disk image created by AOMEI Backupper. 
 
 [![Windows Shell Command](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/adv/tools/windows-shell-command.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Option 2\. Disable Secure Boot
 
@@ -128,6 +132,10 @@ Step 4\. Save the changes and exit the UEFI settings.
 
 Step 5\. Restart the system and check if it boots normally. If the issue persists, proceed to the next method.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Option 3\. Run CHKDSK to Check for Drive Errors
 
 To utilize the CHKDSK utility to address potential disk errors, follow these steps:
@@ -139,6 +147,10 @@ Step 2\. Boot the system from the USB and choose **Repair your Computer**.
 Step 3\. Select **Troubleshoot** and then **Command Prompt**.
 
 [![Command Prompt](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/windows-10-startup-repair/advanced-options.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 4\. Type or paste the following command and press **Enter**:
 
@@ -171,13 +183,13 @@ If the "sfc /scannow" command fails to repair the Winload.efi missing file, proc
 [![SFC Scannow](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/winload-efi-after-clone/sfc-scannow.png "SFC Scannow")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Exercise caution to avoid potential system errors when using this command.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Option 5\. Repair EFI Boot Loader
@@ -214,10 +226,6 @@ Step 4\. Assign the partition a drive letter. Enter each of the following comman
 
 Step 5\. Restart your computer after successfully repairing the EFI loader.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Suggestion: backup your crucial loading files in advance
 
 A reliable backup software like [AOMEI Backupper Standard](https://tools.techidaily.com/ubackup/products/) allows you to create a bootable disc and system backup, preventing startup loop errors and addressing various computer failures. In the event of a system crash, you can restore the system image to a new hard drive and regain normal functionality. AOMEI Backupper Standard offers numerous advantages for seamless backup and recovery processes.
@@ -237,11 +245,7 @@ You just need to download this software and install it. Open it and navigate to 
 [![System Backup](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/backup/system-backup/system-backup.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -261,7 +265,7 @@ Was the provided information useful? Your vote is important to us!
 Maggie is a technical editor from AOMEI and troubleshoots technical problems against data protection. She has received professional and systematic technical training. With a focus on user experience, security, and problem-solving, she always puts herself in the readers' shoes and provides them with valuable technical insights.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Related Articles
@@ -294,10 +298,6 @@ Safeguard any data of your computer with backup, sync and clone.
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -313,22 +313,17 @@ Safeguard any data of your computer with backup, sync and clone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-international-ranks-youtube-stars-with-the-most-loyal-viewers/"><u>[New] In 2024, International Ranks YouTube Stars With the Most Loyal Viewers</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-arena-of-games-100plus-channel-spectrums-galore/"><u>[Updated] 2024 Approved Arena of Games 100+ Channel Spectrums Galore</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-blueprint-producing-purposeful-life-exploration-broadcasts/"><u>[Updated] 2024 Approved Blueprint Producing Purposeful Life Exploration Broadcasts</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-innovative-fbx-gametime-tracking-solutions-for-2024/"><u>[Updated] Innovative FBX Gametime Tracking Solutions for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-navigating-asmrs-influence-on-your-life-for-2024/"><u>[Updated] Navigating ASMR’s Influence on Your Life for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-10-best-digital-wallpaper-change-software/"><u>2024 Approved 10 Best Digital Wallpaper Change Software</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/fixing-low-quality-scan-issues-with-professional-advice-by-yl-software-experts/"><u>Fixing Low-Quality Scan Issues with Professional Advice by YL Software Experts</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/high-quality-ferrari-f60-american-edition-backgrounds-by-yl-computing-premium-digital-artwork-and-desktop-decor/"><u>High-Quality Ferrari F60 American Edition Backgrounds by YL Computing: Premium Digital Artwork & Desktop Decor</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/identifying-the-processor-in-your-pc-tips-and-tricks-from-yl-software-solutions/"><u>Identifying the Processor in Your PC: Tips & Tricks From YL Software Solutions</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/is-your-graphics-card-excessively-heating-up-uncovering-the-causes-with-yl-computing-solutions/"><u>Is Your Graphics Card Excessively Heating Up? Uncovering the Causes with YL Computing Solutions</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/picturing-perfect-profile-visions/"><u>Picturing Perfect Profile Visions</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-troubleshooting-for-mute-mic-and-speakers-on-your-windows-11-system/"><u>Quick Troubleshooting for Mute Mic and Speakers on Your Windows 11 System</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/stunning-bmw-ix3-high-definition-wallpapers-and-desktop-imagery-by-yl-computing-solutions/"><u>Stunning BMW iX3 High-Definition Wallpapers & Desktop Imagery by YL Computing Solutions</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/top-strategies-to-enhance-graphics-performance-expert-advice-from-yl-computing/"><u>Top Strategies to Enhance Graphics Performance: Expert Advice From YL Computing</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/troubleshooting-your-nonfunctional-sound-card-solutions-from-yl-computings-experts/"><u>Troubleshooting Your Nonfunctional Sound Card - Solutions From YL Computing's Experts</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-from-honor-magic-5-pro-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Honor Magic 5 Pro FRP Bypass</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/understanding-potential-hazards-a-comprehensive-guide-on-crypto-asset-ownership-by-yl-computing/"><u>Understanding Potential Hazards: A Comprehensive Guide on Crypto-Asset Ownership by YL Computing</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-best-6-value-proposition-affordable-4k-projectors/"><u>[New] 2024 Approved Best 6 Value Proposition Affordable 4K Projectors</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-a-detailed-exploration-youtubes-visionary-suite/"><u>2024 Approved A Detailed Exploration YouTube's Visionary Suite</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-innovations-in-balancing-exposures-for-perfect-pictures/"><u>2024 Approved Innovations in Balancing Exposures for Perfect Pictures</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/a-step-by-step-guide-to-user-management-via-windows-control-panel-tips-by-yl-software/"><u>A Step-by-Step Guide to User Management via Windows Control Panel - Tips by YL Software</u></a></li>
+<li><a href="https://techtrends.techidaily.com/deciphering-the-buzz-surrounding-the-next-gen-google-pixel-fold-rumored-costs-launch-windows-and-specs-leak-preview/"><u>Deciphering the Buzz Surrounding the Next-Gen Google Pixel Fold : Rumored Costs, Launch Windows & Specs Leak Preview</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-techniques-for-fixing-windows-11-issues-using-sfc-and-dism/"><u>Expert Techniques for Fixing Windows 1#1 Issues Using SFC & DISM</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/how-to-easily-navigate-to-the-control-panel-in-windows-insights-by-yl-software-experts/"><u>How to Easily Navigate to the Control Panel in Windows: Insights by YL Software Experts</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/how-to-fix-connection-issues-with-your-external-gadgets-expert-tips-from-yl-computing/"><u>How To Fix Connection Issues with Your External Gadgets: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-cricket-apple-iphone-12-pro-max-for-free-by-drfone-ios/"><u>In 2024, How To Unlock Cricket Apple iPhone 12 Pro Max for Free</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/safe-purchasing-and-storage-strategies-for-digital-assets-insights-from-yl-computing/"><u>Safe Purchasing & Storage Strategies for Digital Assets: Insights From YL Computing</u></a></li>
+<li><a href="https://video-capture.techidaily.com/the-ultimate-guide-for-professional-use-of-screen-recorder-by-zd-soft/"><u>The Ultimate Guide for Professional Use of Screen Recorder by ZD Soft</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/troubleshooting-ram-problems-insights-from-yl-software-experts/"><u>Troubleshooting RAM Problems: Insights From YL Software Experts</u></a></li>
 </ul></div>
 

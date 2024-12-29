@@ -1,7 +1,7 @@
 ---
 title: "California Revisited: Insights & Highlights From the NAMM Experience"
-date: 2024-12-19T23:12:42.289Z
-updated: 2024-12-24T03:05:28.050Z
+date: 2024-12-25T22:46:26.969Z
+updated: 2024-12-29T20:29:57.269Z
 tags:
   - product
 categories:
@@ -38,7 +38,7 @@ I’ve just returned from SoCal after the grind, albeit a enjoyable one, that is
    While some DJs may be turned off by the lack of tactile hands-on control (pushing faders, twisting knobs, etc), the versatility and application for the KS32 is fascinating.If you’re a multi-media mixing DJ that does more than just mix music — the KS32 is a product to consider. Think “modes” and panels, switching from video mixing mode, to karaoke mode and on to lighting control. Since it’s template based the flexibility is truly endless. PCDJ users rejoice, as Smithson Martin will be working on a new template for DEX 3 soon!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -60,22 +60,21 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2016/01/nammreport-coverimage.jpg?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-a-guide-to-retrieving-historic-facebook-stories/"><u>[New] In 2024, A Guide to Retrieving Historic Facebook Stories</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-expert-strategies-for-logging-roblox-games-on-a-macbook/"><u>[Updated] Expert Strategies for Logging Roblox Games on a MacBook</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/automatic-data-transfer-with-elite-usb-drive-organizer-for-pcs-running-windows/"><u>Automatic Data Transfer with Elite USB Drive Organizer for PCs Running Windows</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/configuring-your-pcs-ipv4-settings-a-step-by-step-guide-tips-from-yl-computing/"><u>Configuring Your PC's IPv4 Settings: A Step-by-Step Guide - Tips From YL Computing</u></a></li>
-<li><a href="https://fox-http.techidaily.com/decoding-love-for-filmora-the-editors-prime-traits-for-2024/"><u>Decoding Love for Filmora The Editor’s Prime Traits for 2024</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/discovering-your-windows-10-os-version-expert-tips-from-yl-computings-guide-to-easy-solutions/"><u>Discovering Your Windows 10 OS Version: Expert Tips From YL Computing's Guide to Easy Solutions</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/download-the-latest-dj-deckadance-version-31305-optimized-and-updated-pioneer-cdjs/"><u>Download the Latest DJ Deckadance Version 3.13.0.5: Optimized and Updated - Pioneer CDJs</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-install-up-to-date-drivers-for-your-canon-mg3022-printer/"><u>How to Install Up-to-Date Drivers for Your Canon MG3022 Printer</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/reinstalling-audio-device-drivers-in-windows-a-step-by-step-guide/"><u>Reinstalling Audio Device Drivers in Windows: A Step-by-Step Guide</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/step-by-step-infographic-for-picking-a-stellar-karaoke-number-with-professional-tips-from-top-djs/"><u>Step-by-Step Infographic for Picking a Stellar Karaoke Number with Professional Tips From Top DJs</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/the-end-of-an-era-insight-into-qin-dynastys-demise-with-yl-computational-expertise/"><u>The End of an Era: Insight Into Qin Dynasty's Demise with YL Computational Expertise</u></a></li>
-<li><a href="https://fox-that.techidaily.com/top-10-solutions-for-non-responsive-widgets-on-ios-devices/"><u>Top 10 Solutions for Non-Responsive Widgets on iOS Devices</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/troubleshooting-windows-device-drivers-expert-advice-from-yl-software-solutions/"><u>Troubleshooting Windows Device Drivers: Expert Advice From YL Software Solutions</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/troubleshooting-your-scanner-issues-expert-tips-from-yl-computing-and-software-solutions/"><u>Troubleshooting Your Scanner Issues: Expert Tips From YL Computing & Software Solutions</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/why-i-prefer-this-asus-laptop-over-a-macbook-discover-its-superior-features/"><u>Why I Prefer This Asus Laptop Over a MacBook: Discover Its Superior Features</u></a></li>
-<li><a href="https://facebook.techidaily.com/why-scrubbing-your-facebook-view-logs-is-smart/"><u>Why Scrubbing Your Facebook View Logs Is Smart</u></a></li>
-<li><a href="https://win-tutorials.techidaily.com/windows-11-update-23h2-support-pack-installation-and-backup-guide/"><u>Windows 11 Update 23H2 Support Pack Installation & Backup Guide</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-breathtaking-lyric-videos-made-easy-by-lyric-video-maker-for-2024/"><u>[New] Breathtaking Lyric Videos Made Easy by Lyric Video Maker for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-elevate-your-videography-on-android-for-2024/"><u>[New] Elevate Your Videography on Android for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-compact-movie-story-proposal/"><u>[Updated] Compact Movie Story Proposal</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-best-practices-in-finding-quality-photo-and-video-banners/"><u>2024 Approved Best Practices in Finding Quality Photo & Video Banners</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-leveraging-virtual-collaboration-with-zoom-and-win11-tools/"><u>2024 Approved Leveraging Virtual Collaboration with Zoom & Win11 Tools</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-the-artisans-approach-to-preserving-ps3-gameplay-moments/"><u>2024 Approved The Artisan's Approach to Preserving PS3 Gameplay Moments</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/easy-guide-to-relocating-files-and-folders-on-windows-tips-by-yl-computing/"><u>Easy Guide to Relocating Files and Folders on Windows - Tips by YL Computing</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/experts-reveal-the-leading-windows-data-recovery-tools-discover-how-yl-software-can-help-you-safeguard-your-files/"><u>Experts Reveal the Leading Windows Data Recovery Tools – Discover How YL Software Can Help You Safeguard Your Files</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Oppo Find X7 | Dr.fone</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/how-does-cryptocurrency-mining-work-insights-from-yl-computings-expertise/"><u>How Does Cryptocurrency Mining Work? - Insights From YL Computing's Expertise</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/is-your-pc-protected-by-windows-defender-against-rootkits-learn-with-yl-computings-analysis/"><u>Is Your PC Protected by Windows Defender Against Rootkits? Learn with YL Computing's Analysis</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/reviving-your-gpu-expert-tips-on-repairing-graphics-cards-without-a-full-replacement-insights-by-yl-computing/"><u>Reviving Your GPU: Expert Tips on Repairing Graphics Cards Without a Full Replacement - Insights by YL Computing</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/the-essence-of-finances-how-massmail-helps-understand-your-relationship-with-money/"><u>The Essence of Finances: How MassMail Helps Understand Your Relationship with Money</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/understanding-printer-error-notifications-expert-advice-by-yl-software-solutions/"><u>Understanding Printer Error Notifications: Expert Advice by YL Software Solutions</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/understanding-windows-defenders-process-of-detecting-and-protecting-against-malware-a-deep-dive-by-yl-computing/"><u>Understanding Windows Defender's Process of Detecting and Protecting Against Malware - A Deep Dive by YL Computing</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/which-creator-are-you-find-out-through-these-pioneering-6-quizzes/"><u>Which Creator Are You? Find Out Through These Pioneering 6 Quizzes</u></a></li>
 </ul></div>
 
