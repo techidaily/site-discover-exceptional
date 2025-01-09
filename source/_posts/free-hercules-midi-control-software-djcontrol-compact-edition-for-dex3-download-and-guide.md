@@ -1,7 +1,7 @@
 ---
 title: Free Hercules MIDI Control Software - DJControl Compact Edition for DEX3, Download & Guide
-date: 2024-12-23T22:23:39.075Z
-updated: 2024-12-29T21:40:33.656Z
+date: 2025-01-06T16:14:15.597Z
+updated: 2025-01-08T19:08:58.699Z
 tags:
   - product
 categories:
@@ -39,7 +39,7 @@ If you’re a DJ on the go that values portability without too much sacrifice th
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Here’s What Hercules DJ Say’s About The DJControl Compact
@@ -75,7 +75,7 @@ If you’re a DJ on the go that values portability without too much sacrifice th
 _Have questions about the **Hercules DJControl Compact** or how to use **DJ controllers** with our **DJ software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -97,24 +97,24 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2016/08/herculesdjcontrolcompact-c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-how-to-edit-podcasts-in-garageband-for-2024/"><u>[New] How To Edit Podcasts in GarageBand for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-seamlessly-engage-fb-live-on-your-roku-screen-for-2024/"><u>[New] Seamlessly Engage FB Live on Your Roku Screen for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-turn-games-into-memories-no-fuss-nvidia-style/"><u>[Updated] 2024 Approved Turn Games Into Memories - No Fuss, NVIDIA Style</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-strategic-use-of-creative-commons-copyright-law/"><u>[Updated] Strategic Use of Creative Commons Copyright Law</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-swiftstrike-timetape-recording/"><u>2024 Approved SwiftStrike TimeTape Recording</u></a></li>
-<li><a href="https://win11.techidaily.com/bypassing-insufficient-privileges-for-app-updates-on-windows-oses/"><u>Bypassing Insufficient Privileges for App Updates on Windows OSes</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/checking-your-windows-defender-status-is-it-current-insights-from-yl-computing/"><u>Checking Your Windows Defender Status: Is It Current? - Insights From YL Computing</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/discover-inbuilt-data-recovery-options-within-windows-a-guide-by-yl-software-experts/"><u>Discover Inbuilt Data Recovery Options Within Windows - A Guide by YL Software Experts</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/discover-the-leaders-who-inaugurated-prc-in-1949-a-detailed-analysis-by-yl-solutions/"><u>Discover the Leaders Who Inaugurated PRC in 1949: A Detailed Analysis by YL Solutions</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/exploring-the-benefits-of-cryptocurrency-vs-conventional-money-insights-by-yl-computing/"><u>Exploring the Benefits of Cryptocurrency Vs. Conventional Money: Insights by YL Computing</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/harmonic-mixing-mastery-with-dex-3-discovering-tune-compatibility-for-seamless-dj-sets/"><u>Harmonic Mixing Mastery with DEX 3: Discovering Tune Compatibility for Seamless DJ Sets</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/hd-nature-landscapes-and-serene-vistas-stunning-wallpaper-collections-by-yl-computing/"><u>HD Nature Landscapes & Serene Vistas: Stunning Wallpaper Collections by YL Computing</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/how-can-you-fix-a-non-responsive-mouse-on-your-pc-expert-solutions-from-yl-computing/"><u>How Can You Fix a Non-Responsive Mouse on Your PC? Expert Solutions From YL Computing</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-change-your-facebook-password/"><u>How to Change Your Facebook Password</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-honor-magic-5-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Honor Magic 5? | Dr.fone</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/solving-hardware-compatibility-problems-expert-guide-by-yl-computing/"><u>Solving Hardware Compatibility Problems: Expert Guide by YL Computing</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/ultimate-guide-comparing-all-types-of-ipads/"><u>Ultimate Guide: Comparing All Types of iPads</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/unlock-endless-entertainment-why-you-need-a-party-tyme-karaoke-membership-today/"><u>Unlock Endless Entertainment: Why You Need a Party Tyme Karaoke Membership Today!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiling-6-free-substitutes-for-the-popular-openai-sora-platform/"><u>Unveiling 6 Free Substitutes for the Popular OpenAI Sora Platform</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/everaging-video-shorts-to-generate-income-online-for-2024/"><u>[New] Leveraging Video Shorts to Generate Income Online for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-ace-subtitles-conversion-the-best-free-services-listed/"><u>[Updated] Ace Subtitles Conversion The Best Free Services Listed</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-create-memorable-thumbnails-discover-these-8-youtube-aids-for-2024/"><u>[Updated] Create Memorable Thumbnails - Discover These 8 YouTube Aids for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-elevate-communication-a-comprehensive-guide-to-using-gifs-on-discord/"><u>[Updated] In 2024, Elevate Communication A Comprehensive Guide to Using GIFs on Discord</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-top-5-efficient-mac-snippers-for-quick-captures/"><u>[Updated] In 2024, Top 5 Efficient Mac Snippers for Quick Captures</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/1-unveiling-stealthy-culprits-detect-and-eliminate-high-resource-hogs-from-your-computer-with-ease/"><u>1. Unveiling Stealthy Culprits: Detect & Eliminate High-Resource Hogs From Your Computer with Ease!</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/creating-conversation-a-guide-for-active-youtubers/"><u>Creating Conversation A Guide for Active YouTubers</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/dive-into-the-world-of-tiktok-emojis-top-7-plus-secret-easter-eggs-uncovered-for-2024/"><u>Dive Into the World of TikTok Emojis – Top 7 + Secret Easter Eggs Uncovered for 2024</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/easy-guide-to-relocating-files-and-folders-on-windows-tips-by-yl-computing/"><u>Easy Guide to Relocating Files and Folders on Windows - Tips by YL Computing</u></a></li>
+<li><a href="https://win-bits.techidaily.com/efficient-techniques-for-eliminating-computer-viruses-insights-from-yl-computing/"><u>Efficient Techniques for Eliminating Computer Viruses - Insights From YL Computing</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/how-to-fix-a-non-starting-pc-expert-tips-from-yl-computing/"><u>How to Fix a Non-Starting PC: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/newest-chart-topping-songs-featured-in-the-latest-update-of-karaoke-cloud-pro-february-selection/"><u>Newest Chart-Topping Songs Featured in the Latest Update of Karaoke Cloud Pro – February Selection</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/protect-your-pc-from-cyber-dangers-a-comprehensive-guide-by-yl-software/"><u>Protect Your PC From Cyber Dangers: A Comprehensive Guide by YL Software</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/reviving-your-gpu-expert-tips-on-repairing-graphics-cards-without-a-full-replacement-insights-by-yl-computing/"><u>Reviving Your GPU: Expert Tips on Repairing Graphics Cards Without a Full Replacement - Insights by YL Computing</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/the-ultimate-strategy-for-boosted-instagram-video-traffic-for-2024/"><u>The Ultimate Strategy for Boosted Instagram Video Traffic for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96028584-9780835621564-thoughts-for-aspirants/"><u>Thoughts for Aspirants | Free Book</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/understanding-printer-error-notifications-expert-advice-by-yl-software-solutions/"><u>Understanding Printer Error Notifications: Expert Advice by YL Software Solutions</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/understanding-the-reasons-behind-your-displays-stall-when-interacting-with-specific-hardware-insights-from-yl-computing-and-yl-software/"><u>Understanding the Reasons Behind Your Display's Stall When Interacting with Specific Hardware: Insights From YL Computing & YL Software</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/understanding-windows-defenders-process-of-detecting-and-protecting-against-malware-a-deep-dive-by-yl-computing/"><u>Understanding Windows Defender's Process of Detecting and Protecting Against Malware - A Deep Dive by YL Computing</u></a></li>
 </ul></div>
 

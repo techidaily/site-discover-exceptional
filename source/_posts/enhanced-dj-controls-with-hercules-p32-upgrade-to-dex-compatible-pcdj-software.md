@@ -1,7 +1,7 @@
 ---
 title: Enhanced DJ Controls with Hercules P32 Upgrade to DEX-Compatible PCDJ Software
-date: 2024-12-27T17:50:01.038Z
-updated: 2024-12-29T19:00:45.147Z
+date: 2025-01-01T19:06:58.887Z
+updated: 2025-01-08T18:11:30.329Z
 tags:
   - product
 categories:
@@ -45,7 +45,7 @@ _**Note:** Improved support for some of the Hercules P32 capabilities will be av
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Hercules P32 General Features
@@ -81,7 +81,7 @@ _**Note:** Improved support for some of the Hercules P32 capabilities will be av
    * Each sample player can be individually set to Loop or Trigger mode (quantized or unquantized), and volume controlled
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Hercules P32 Specification’s
@@ -104,7 +104,7 @@ _**Note:** Improved support for some of the Hercules P32 capabilities will be av
 | Box Dimensions (LxWxH) | 16.5 x 10.8 x 3.2″ |
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -126,21 +126,17 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2016/12/herculesp32support-cover.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-find-your-perfect-vlog-title-best-free-name-generators/"><u>[New] 2024 Approved Find Your Perfect Vlog Title - Best Free Name Generators</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/a-step-by-step-guide-to-user-management-via-windows-control-panel-tips-by-yl-software/"><u>A Step-by-Step Guide to User Management via Windows Control Panel - Tips by YL Software</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/airpod-connection-techniques-on-an-hp-computer/"><u>AirPod Connection Techniques on an HP Computer</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/best-practices-for-unshaky-phone-videos-for-2024/"><u>Best Practices for Unshaky Phone Videos for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/best-top-ranking-movie-editors-discover-the-9-best-free-substitutes-for-lightworks-and-movavi/"><u>Best Top-Ranking Movie Editors: Discover the 9 Best Free Substitutes for Lightworks and Movavi</u></a></li>
-<li><a href="https://fox-that.techidaily.com/crack-the-code-of-constant-connection-six-tips-for-airpods-multi-device-management/"><u>Crack the Code of Constant Connection: Six Tips for AirPods Multi-Device Management</u></a></li>
-<li><a href="https://program-issues.techidaily.com/elevate-your-gameplay-boost-fps-on-apex-legends-by-following-these-steps/"><u>Elevate Your Gameplay: Boost FPS on Apex Legends by Following These Steps</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/excellent-tech-for-premium-4k-editors-for-2024/"><u>Excellent Tech for Premium 4K Editors for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-from-lava-by-drfone-android/"><u>How to Bypass FRP from Lava?</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/how-to-easily-navigate-to-the-control-panel-in-windows-insights-by-yl-software-experts/"><u>How to Easily Navigate to the Control Panel in Windows: Insights by YL Software Experts</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/how-to-fix-connection-issues-with-your-external-gadgets-expert-tips-from-yl-computing/"><u>How To Fix Connection Issues with Your External Gadgets: Expert Tips From YL Computing</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/safe-purchasing-and-storage-strategies-for-digital-assets-insights-from-yl-computing/"><u>Safe Purchasing & Storage Strategies for Digital Assets: Insights From YL Computing</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/step-by-step-guide-to-purchasing-advanced-360-imaging-equipment-for-2024/"><u>Step-by-Step Guide to Purchasing Advanced 360 Imaging Equipment for 2024</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/troubleshooting-ram-problems-insights-from-yl-software-experts/"><u>Troubleshooting RAM Problems: Insights From YL Software Experts</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/troubleshooting-system-breakdowns-with-yl-computing-discover-why-your-application-keeps-crashing/"><u>Troubleshooting System Breakdowns with YL Computing: Discover Why Your Application Keeps Crashing!</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/yls-expert-tutorial-on-easily-accessing-text-documents-for-everyone/"><u>YL's Expert Tutorial on Easily Accessing Text Documents for Everyone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/nowledge-nexus-best-ed-sources-on-youtube/"><u>[New] Knowledge Nexus Best Ed Sources on YouTube</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-enhancing-video-reach-convert-yt-to-igtv/"><u>[Updated] 2024 Approved Enhancing Video Reach Convert YT to IGTV</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-best-color-correction-app/"><u>[Updated] In 2024, Best Color Correction App</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-chucklechasm-exciting-places-to-get-comical-calls/"><u>[Updated] In 2024, ChuckleChasm Exciting Places to Get Comical Calls</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/effective-solutions-for-the-chatgpt-error-linked-to-plugin-services/"><u>Effective Solutions for the ChatGPT Error Linked to Plugin Services</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/exploring-the-timeline-the-onset-of-chinas-hundred-days-reform-insights-by-yl-software/"><u>Exploring the Timeline: The Onset of China's Hundred Days' Reform - Insights by YL Software</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-ideas-to-paper-top-8-iphone-sketching-tools-compared/"><u>In 2024, Ideas to Paper Top 8 iPhone Sketching Tools Compared</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-samsung-galaxy-a24-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Samsung Galaxy A24 and Browser | Dr.fone</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/overcoming-laptop-loading-woes-insight-into-preventive-measures-and-fixes-by-yl-innovations/"><u>Overcoming Laptop Loading Woes: Insight Into Preventive Measures & Fixes by YL Innovations</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/the-ascension-to-authority-empress-dowager-cixis-power-play-decoded-by-yl-software-experts/"><u>The Ascension to Authority: Empress Dowager Cixi's Power Play Decoded by YL Software Experts</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/understanding-executable-files-windows-formats-explained-by-yl-computing/"><u>Understanding Executable Files: Windows Formats Explained by YL Computing</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/unveiling-the-tactics-of-crypto-price-distortion-advanced-techniques-by-yl-software-professionals/"><u>Unveiling the Tactics of Crypto Price Distortion - Advanced Techniques by YL Software Professionals</u></a></li>
 </ul></div>
 

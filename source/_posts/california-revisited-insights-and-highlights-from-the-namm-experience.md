@@ -1,7 +1,7 @@
 ---
 title: "California Revisited: Insights & Highlights From the NAMM Experience"
-date: 2024-12-25T22:46:26.969Z
-updated: 2024-12-29T20:29:57.269Z
+date: 2025-01-05T21:09:42.307Z
+updated: 2025-01-09T01:08:35.821Z
 tags:
   - product
 categories:
@@ -38,7 +38,7 @@ I’ve just returned from SoCal after the grind, albeit a enjoyable one, that is
    While some DJs may be turned off by the lack of tactile hands-on control (pushing faders, twisting knobs, etc), the versatility and application for the KS32 is fascinating.If you’re a multi-media mixing DJ that does more than just mix music — the KS32 is a product to consider. Think “modes” and panels, switching from video mixing mode, to karaoke mode and on to lighting control. Since it’s template based the flexibility is truly endless. PCDJ users rejoice, as Smithson Martin will be working on a new template for DEX 3 soon!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -60,21 +60,20 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2016/01/nammreport-coverimage.jpg?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-breathtaking-lyric-videos-made-easy-by-lyric-video-maker-for-2024/"><u>[New] Breathtaking Lyric Videos Made Easy by Lyric Video Maker for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-elevate-your-videography-on-android-for-2024/"><u>[New] Elevate Your Videography on Android for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-compact-movie-story-proposal/"><u>[Updated] Compact Movie Story Proposal</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-best-practices-in-finding-quality-photo-and-video-banners/"><u>2024 Approved Best Practices in Finding Quality Photo & Video Banners</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-leveraging-virtual-collaboration-with-zoom-and-win11-tools/"><u>2024 Approved Leveraging Virtual Collaboration with Zoom & Win11 Tools</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-the-artisans-approach-to-preserving-ps3-gameplay-moments/"><u>2024 Approved The Artisan's Approach to Preserving PS3 Gameplay Moments</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/easy-guide-to-relocating-files-and-folders-on-windows-tips-by-yl-computing/"><u>Easy Guide to Relocating Files and Folders on Windows - Tips by YL Computing</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/experts-reveal-the-leading-windows-data-recovery-tools-discover-how-yl-software-can-help-you-safeguard-your-files/"><u>Experts Reveal the Leading Windows Data Recovery Tools – Discover How YL Software Can Help You Safeguard Your Files</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Oppo Find X7 | Dr.fone</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/how-does-cryptocurrency-mining-work-insights-from-yl-computings-expertise/"><u>How Does Cryptocurrency Mining Work? - Insights From YL Computing's Expertise</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/is-your-pc-protected-by-windows-defender-against-rootkits-learn-with-yl-computings-analysis/"><u>Is Your PC Protected by Windows Defender Against Rootkits? Learn with YL Computing's Analysis</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/reviving-your-gpu-expert-tips-on-repairing-graphics-cards-without-a-full-replacement-insights-by-yl-computing/"><u>Reviving Your GPU: Expert Tips on Repairing Graphics Cards Without a Full Replacement - Insights by YL Computing</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/the-essence-of-finances-how-massmail-helps-understand-your-relationship-with-money/"><u>The Essence of Finances: How MassMail Helps Understand Your Relationship with Money</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/understanding-printer-error-notifications-expert-advice-by-yl-software-solutions/"><u>Understanding Printer Error Notifications: Expert Advice by YL Software Solutions</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/understanding-windows-defenders-process-of-detecting-and-protecting-against-malware-a-deep-dive-by-yl-computing/"><u>Understanding Windows Defender's Process of Detecting and Protecting Against Malware - A Deep Dive by YL Computing</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/which-creator-are-you-find-out-through-these-pioneering-6-quizzes/"><u>Which Creator Are You? Find Out Through These Pioneering 6 Quizzes</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-disguise-techniques-in-picart/"><u>[New] In 2024, Disguise Techniques in PicArt</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-streamlined-processes-for-effective-apple-display-recording/"><u>[New] Streamlined Processes for Effective Apple Display Recording</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-guiding-principles-for-swapping-gender-on-instagram-facebook-and-snapchat-pics/"><u>[Updated] Guiding Principles for Swapping Gender on Instagram, Facebook & Snapchat Pics</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-thankful-views-complete-outro-template-library/"><u>[Updated] Thankful Views Complete Outro Template Library</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-free-speech-to-text-conversion-software/"><u>2024 Approved Free Speech-to-Text Conversion Software</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-the-art-of-angling-images-a-comprehensive-instagram-rotation-handbook/"><u>2024 Approved The Art of Angling Images A Comprehensive Instagram Rotation Handbook</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/discover-the-leaders-who-inaugurated-prc-in-1949-a-detailed-analysis-by-yl-solutions/"><u>Discover the Leaders Who Inaugurated PRC in 1949: A Detailed Analysis by YL Solutions</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/easily-connect-and-use-your-printer-with-windows-10-expert-tips-from-yl-computing/"><u>Easily Connect and Use Your Printer with Windows # 10: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/harmonic-mixing-mastery-with-dex-3-discovering-tune-compatibility-for-seamless-dj-sets/"><u>Harmonic Mixing Mastery with DEX 3: Discovering Tune Compatibility for Seamless DJ Sets</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/how-can-you-fix-a-non-responsive-mouse-on-your-pc-expert-solutions-from-yl-computing/"><u>How Can You Fix a Non-Responsive Mouse on Your PC? Expert Solutions From YL Computing</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-say-goodbye-to-tiktok-watermarks-best-online-remover-tools/"><u>New Say Goodbye to TikTok Watermarks Best Online Remover Tools</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/solving-hardware-compatibility-problems-expert-guide-by-yl-computing/"><u>Solving Hardware Compatibility Problems: Expert Guide by YL Computing</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/speedy-and-user-friendly-guide-to-installing-linksys-ae250-router-drivers-on-linux/"><u>Speedy and User-Friendly Guide to Installing Linksys AE250# Router Drivers on Linux</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/top-tracks-years-best-plays-ultimate-list-and-pioneers-of-sound/"><u>Top Tracks, Year's Best Plays, Ultimate List, and Pioneers of Sound.</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/troubleshooting-guide-steps-to-fix-a-non-functional-monitor-tips-from-yl-computing/"><u>Troubleshooting Guide: Steps to Fix a Non-Functional Monitor - Tips From YL Computing</u></a></li>
 </ul></div>
 

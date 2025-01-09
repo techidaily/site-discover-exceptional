@@ -1,7 +1,7 @@
 ---
 title: "DJ Program Update: Dex 3.12 Beta Now Live with Added Karaoke Store Functionality - PCDJ"
-date: 2024-12-24T21:08:30.831Z
-updated: 2024-12-29T18:53:53.906Z
+date: 2025-01-07T04:39:44.836Z
+updated: 2025-01-09T00:23:34.999Z
 tags:
   - product
 categories:
@@ -33,7 +33,7 @@ Since version 3.12 is considered a ‘[Public Beta](https://en.wikipedia.org/wik
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed, or Fixed in DEX 3 Version 3.12
@@ -52,7 +52,7 @@ _**Installation Instructions:** With your existing version of DEX 3 (Pro) closed
 _Have questions about our **top DJ mixing software** or the new features included in version 3.12? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -74,24 +74,21 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2018/11/karaoke-dex3-new-cover.jpg
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-advanced-live-broadcast-setup-from-obs-to-fb-enthusiasts/"><u>[New] 2024 Approved Advanced Live Broadcast Setup From OBS to FB Enthusiasts</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-master-guide-collages-creation-made-easy/"><u>[Updated] Master Guide Collages Creation Made Easy</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-streamlabs-vs-obs-assessing-the-leading-livestream-tools/"><u>[Updated] Streamlabs Vs. OBS Assessing the Leading Livestream Tools</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/1-discover-how-to-locate-hidden-files-on-your-pc-using-windows-a-guide-by-yl-computing/"><u>1. Discover How to Locate Hidden Files on Your PC Using Windows - A Guide by YL Computing</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-mental-marathons-in-elite-escapade-venues/"><u>2024 Approved Mental Marathons in Elite Escapade Venues</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-the-pinnacle-of-vr-how-htc-vive-transforms-playtime/"><u>2024 Approved The Pinnacle of VR How HTC Vive Transforms Playtime</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/affordable-innovation-discover-the-top-5-house-from-a-box-options-under-50k-zdnet/"><u>Affordable Innovation: Discover the Top 5 House From a Box Options Under $50K | ZDnet</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/can-i-trust-bitcoin-address-verifiers-a-safety-guide-by-yl-computing/"><u>Can I Trust Bitcoin Address Verifiers: A Safety Guide by YL Computing</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/high-definition-dark-phoenix-desktop-backgrounds-and-static-wallpaper-collection-premium-designs-by-yl-computing/"><u>High Definition Dark Phoenix Desktop Backgrounds & Static Wallpaper Collection - Premium Designs by YL Computing</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/identifying-and-fixing-the-causes-of-a-hot-running-laptop-with-yl-software-tips/"><u>Identifying & Fixing the Causes of a Hot-Running Laptop with YL Software Tips</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-unveiling-high-definition-with-lgs-31mu97-b-digital-cinema-screen/"><u>In 2024, Unveiling High Definition with LG's 31MU97-B Digital Cinema Screen</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/lcv-video-monitoring-analysis-for-2024/"><u>LCV Video Monitoring Analysis for 2024</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/maximizing-computer-speed-and-power-essential-components-for-an-effective-upgrade-guidance-by-yl-software/"><u>Maximizing Computer Speed and Power: Essential Components for an Effective Upgrade – Guidance by YL Software</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/seamless-windows-operating-system-updates-explained-by-the-experts-at-yl-software/"><u>Seamless Window's Operating System Updates Explained by the Experts at YL Software</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/solving-hard-drive-woes-a-step-by-step-guide-by-yl-software-specialists/"><u>Solving Hard Drive Woes: A Step-by-Step Guide by YL Software Specialists</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/the-end-of-rdo-crashes-expert-tips-and-fixes-for-a-seamless-gaming-experience/"><u>The End of RDO Crashes: Expert Tips and Fixes for a Seamless Gaming Experience</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-xiaomi-redmi-note-12-pro-5g-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Xiaomi Redmi Note 12 Pro 5G Location By Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/transformations-in-china-analyzing-political-and-economic-shifts-post-communist-revolution-insights-by-yl-computing/"><u>Transformations in China: Analyzing Political & Economic Shifts Post-Communist Revolution - Insights by YL Computing</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/yl-computings-stunning-abstraction-brilliant-azure-lights-on-midnight-blue-hd-background-for-your-phone-or-tablet/"><u>YL Computing's Stunning Abstraction: Brilliant Azure Lights on Midnight Blue HD Background for Your Phone or Tablet</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-breaking-barriers-the-best-pc-vr-headsets-of-2023/"><u>[Updated] 2024 Approved Breaking Barriers The Best PC VR Headsets of 2023</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-how-to-create-and-combine-high-dynamic-range-photos-with-lightroom/"><u>[Updated] How to Create and Combine High Dynamic Range Photos with Lightroom</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-securely-installing-apple-podcasts-episodes/"><u>[Updated] Securely Installing Apple Podcasts Episodes</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/google6/"><u>共有ファイルの回復手順: Googleドライブでの6つの方法</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/die-effizienteste-methode-fur-das-reflektieren-von-windows-11-auf-einer-neuen-ssd-eine-umfassende-anleitung/"><u>Die Effizienteste Methode Für Das Reflektieren Von Windows 11 Auf Einer Neuen SSD: Eine Umfassende Anleitung</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/hoe-snel-kunt-u-data-terugkaatsen-op-een-buitenlands-harde-schijf-na-het-verliezen-van-een-partitie-huidige-tips-voor-de-beste-seo-prestaties/"><u>Hoe Snel Kunt U Data Terugkaatsen Op Een Buitenlands Harde Schijf Na Het Verliezen Van Een Partitie? - Huidige Tips Voor De Beste SEO-Prestaties</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-make-the-most-of-your-iphone-6-plus-lock-screen-with-notifications-drfone-by-drfone-ios/"><u>How to Make the Most of Your iPhone 6 Plus Lock Screen with Notifications? | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Apple iPhone 12 | Dr.fone</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/retrieve-missing-files-from-the-recycle-bin-after-unintended-removal-in-windows-11/"><u>Retrieve Missing Files From the Recycle Bin After Unintended Removal in Windows 11</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/simple-steps-for-clear-ipad-recordings-for-2024/"><u>Simple Steps for Clear iPad Recordings for 2024</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/step-by-step-tutorial-direct-mp3-downloads-on-ios-devices/"><u>Step-by-Step Tutorial: Direct MP3 Downloads on iOS Devices</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-illustrators-toolkit-making-text-pop-in-3d-for-2024/"><u>The Illustrator's Toolkit Making Text Pop in 3D for 2024</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/top-clone-hdd-software-pour-windows-compatible-avec-win11-win10-win8-et-win7/"><u>Top Clone HDD Software Pour Windows - Compatible Avec Win11, Win10, Win8 Et Win7</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/ultimate-guide-saving-your-files-prior-to-a-full-windows-11-os-reboot/"><u>Ultimate Guide: Saving Your Files Prior to a Full Windows 11 OS Reboot</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unraveling-the-mystery-how-did-crowdstrike-influence-windows-notorious-meltdnothack-event-a-detailed-historical-perspective/"><u>Unraveling the Mystery: How Did CrowdStrike Influence Windows' Notorious Meltdnothack Event ? A Detailed Historical Perspective</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/1728486364668-windows-116/"><u>Windows 11で発生するブルースクリーンを解決する上で重要な6手順</u></a></li>
 </ul></div>
 
