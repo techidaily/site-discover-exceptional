@@ -1,7 +1,7 @@
 ---
 title: "DJ Program Update: Dex 3.12 Beta Now Live with Added Karaoke Store Functionality - PCDJ"
-date: 2025-01-07T04:39:44.836Z
-updated: 2025-01-09T00:23:34.999Z
+date: 2025-01-08T21:23:51.827Z
+updated: 2025-01-14T17:30:55.291Z
 tags:
   - product
 categories:
@@ -33,7 +33,7 @@ Since version 3.12 is considered a ‘[Public Beta](https://en.wikipedia.org/wik
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed, or Fixed in DEX 3 Version 3.12
@@ -52,7 +52,7 @@ _**Installation Instructions:** With your existing version of DEX 3 (Pro) closed
 _Have questions about our **top DJ mixing software** or the new features included in version 3.12? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -74,21 +74,21 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2018/11/karaoke-dex3-new-cover.jpg
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-breaking-barriers-the-best-pc-vr-headsets-of-2023/"><u>[Updated] 2024 Approved Breaking Barriers The Best PC VR Headsets of 2023</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-how-to-create-and-combine-high-dynamic-range-photos-with-lightroom/"><u>[Updated] How to Create and Combine High Dynamic Range Photos with Lightroom</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-securely-installing-apple-podcasts-episodes/"><u>[Updated] Securely Installing Apple Podcasts Episodes</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/google6/"><u>共有ファイルの回復手順: Googleドライブでの6つの方法</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/die-effizienteste-methode-fur-das-reflektieren-von-windows-11-auf-einer-neuen-ssd-eine-umfassende-anleitung/"><u>Die Effizienteste Methode Für Das Reflektieren Von Windows 11 Auf Einer Neuen SSD: Eine Umfassende Anleitung</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/hoe-snel-kunt-u-data-terugkaatsen-op-een-buitenlands-harde-schijf-na-het-verliezen-van-een-partitie-huidige-tips-voor-de-beste-seo-prestaties/"><u>Hoe Snel Kunt U Data Terugkaatsen Op Een Buitenlands Harde Schijf Na Het Verliezen Van Een Partitie? - Huidige Tips Voor De Beste SEO-Prestaties</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-make-the-most-of-your-iphone-6-plus-lock-screen-with-notifications-drfone-by-drfone-ios/"><u>How to Make the Most of Your iPhone 6 Plus Lock Screen with Notifications? | Dr.fone</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Apple iPhone 12 | Dr.fone</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/retrieve-missing-files-from-the-recycle-bin-after-unintended-removal-in-windows-11/"><u>Retrieve Missing Files From the Recycle Bin After Unintended Removal in Windows 11</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/simple-steps-for-clear-ipad-recordings-for-2024/"><u>Simple Steps for Clear iPad Recordings for 2024</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/step-by-step-tutorial-direct-mp3-downloads-on-ios-devices/"><u>Step-by-Step Tutorial: Direct MP3 Downloads on iOS Devices</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-illustrators-toolkit-making-text-pop-in-3d-for-2024/"><u>The Illustrator's Toolkit Making Text Pop in 3D for 2024</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/top-clone-hdd-software-pour-windows-compatible-avec-win11-win10-win8-et-win7/"><u>Top Clone HDD Software Pour Windows - Compatible Avec Win11, Win10, Win8 Et Win7</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/ultimate-guide-saving-your-files-prior-to-a-full-windows-11-os-reboot/"><u>Ultimate Guide: Saving Your Files Prior to a Full Windows 11 OS Reboot</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unraveling-the-mystery-how-did-crowdstrike-influence-windows-notorious-meltdnothack-event-a-detailed-historical-perspective/"><u>Unraveling the Mystery: How Did CrowdStrike Influence Windows' Notorious Meltdnothack Event ? A Detailed Historical Perspective</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/1728486364668-windows-116/"><u>Windows 11で発生するブルースクリーンを解決する上で重要な6手順</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-youtube-mastery-starts-here-building-and-monetizing-your-channel/"><u>[New] 2024 Approved YouTube Mastery Starts Here Building and Monetizing Your Channel</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-tackling-photo-app-errors-in-windows-11/"><u>[New] Tackling Photo App Errors in Windows 11</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-elite-upgrades-top-picks-of-vr-handwear-devices/"><u>[Updated] 2024 Approved Elite Upgrades Top Picks of VR Handwear Devices</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-multitasking-mastery-activities-while-embracing-soundtracks/"><u>[Updated] Multitasking Mastery Activities While Embracing Soundtracks</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/1-checking-connected-peripherals-identifying-external-audio-drivers-in-your-windows-pc-insights-by-yl-computing/"><u>1. Checking Connected Peripherals: Identifying External Audio Drivers in Your Windows PC - Insights by YL Computing</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/1-speedy-methods-for-locating-targeted-files-on-your-pc-a-guide-by-yl-computing/"><u>1. Speedy Methods for Locating Targeted Files on Your PC: A Guide by YL Computing</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/how-can-you-personalize-your-windows-10-taskbar-settings-expert-tips-from-yl-computing/"><u>How Can You Personalize Your Windows 10 Taskbar Settings? - Expert Tips From YL Computing</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-infinix-hot-40i-bootloader-easily-by-drfone-android/"><u>How to Unlock Infinix Hot 40i Bootloader Easily</u></a></li>
+<li><a href="https://article-helps.techidaily.com/innovating-with-3d-text-effects-in-adobe-photoshop/"><u>Innovating with 3D Text Effects in Adobe Photoshop</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/learn-illustration-magic-a-guide-to-adobe-motion-blur/"><u>Learn Illustration Magic A Guide to Adobe Motion Blur</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/recognizing-troublesome-hardware-issues-on-your-windows-pc-a-guide-by-yl-computing/"><u>Recognizing Troublesome Hardware Issues on Your Windows PC - A Guide by YL Computing</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/solving-sound-sync-issues-fixing-windows-audio-lags-insights-from-yl-computing/"><u>Solving Sound Sync Issues: Fixing Windows Audio Lags - Insights From YL Computing</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/step-by-step-tutorial-on-adjusting-your-computers-hardware-settings-via-the-windows-control-panel-by-yl-computing/"><u>Step-by-Step Tutorial on Adjusting Your Computer's Hardware Settings via the Windows Control Panel by YL Computing</u></a></li>
+<li><a href="https://change-location.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-vivo-v30-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Vivo V30 | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/tiktok-and-twittersphere-crossover-the-viral-vids-for-2024/"><u>TikTok and Twittersphere Crossover The Viral Vids for 2024</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/zelensky-stresses-importance-of-alliance-ukraine-risks-losing-crucial-backing-if-it-attacks-russia-advocates-for-political-solution-in-crimean-crisis-yl-com13/"><u>Zelensky Stresses Importance of Alliance: Ukraine Risks Losing Crucial Backing if It Attacks Russia, Advocates for Political Solution in Crimean Crisis – YL Computing | YL Software</u></a></li>
 </ul></div>
 
