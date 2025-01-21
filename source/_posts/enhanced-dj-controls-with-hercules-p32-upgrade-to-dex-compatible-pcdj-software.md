@@ -1,7 +1,7 @@
 ---
 title: Enhanced DJ Controls with Hercules P32 Upgrade to DEX-Compatible PCDJ Software
-date: 2025-01-08T23:57:55.677Z
-updated: 2025-01-14T17:31:29.709Z
+date: 2025-01-15T20:15:03.159Z
+updated: 2025-01-21T04:24:00.119Z
 tags:
   - product
 categories:
@@ -45,7 +45,7 @@ _**Note:** Improved support for some of the Hercules P32 capabilities will be av
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Hercules P32 General Features
@@ -81,7 +81,7 @@ _**Note:** Improved support for some of the Hercules P32 capabilities will be av
    * Each sample player can be individually set to Loop or Trigger mode (quantized or unquantized), and volume controlled
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Hercules P32 Specification’s
@@ -104,7 +104,7 @@ _**Note:** Improved support for some of the Hercules P32 capabilities will be av
 | Box Dimensions (LxWxH) | 16.5 x 10.8 x 3.2″ |
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -126,16 +126,16 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2016/12/herculesp32support-cover.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-examining-realities-intertwined-what-is-mixed-reality/"><u>[New] Examining Realities Intertwined What Is Mixed Reality?</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/10-ultimate-websites-for-stunning-hdr-skies-for-2024/"><u>10 Ultimate Websites for Stunning HDR Skies for 2024</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/automating-data-safety-setting-up-a-windows-aturate-automatic-backup-when-shutting-down-your-pc/"><u>Automating Data Safety: Setting Up a Windows Aturate Automatic Backup when Shutting Down Your PC</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/how-to-perform-a-system-restore-using-command-prompt-on-windows-10-a-step-by-step-guide/"><u>How to Perform a System Restore Using Command Prompt on Windows 10: A Step-by-Step Guide</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-vivo-y78t-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Vivo Y78t Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/peak-commercial-sky-storage-providers-for-2024/"><u>Peak Commercial Sky-Storage Providers for 2024</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/resolving-server-error-in-wbadmin-expert-solutions-and-workarounds/"><u>Resolving 'Server Error' In WBAdmin - Expert Solutions & Workarounds</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/schritt-fur-schritt-guide-zur-datensicherung-auf-windows-home-server/"><u>Schritt-Für-Schritt-Guide Zur Datensicherung Auf Windows Home Server</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/spezielle-ereignisse-auslosen-automatisierte-backups-erzeugen/"><u>Spezielle Ereignisse Auslösen: Automatisierte Backups Erzeugen</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/transforma-tu-experiencia-con-camara-y-microfono-web-mediante-el-software-inteligente-winix/"><u>Transforma Tu Experiencia Con Cámara Y Micrófono Web Mediante El Software Inteligente Winix</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/unlocking-youtubes-secrets-for-profound-visibility-gains-for-2024/"><u>Unlocking YouTube's Secrets for Profound Visibility Gains for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-how-to-see-who-viewed-your-instagram-post/"><u>[New] In 2024, How to See Who Viewed Your Instagram Post</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-launchpad-gear-list-enhance-your-beginners-gopro-journey/"><u>[Updated] Launchpad Gear List - Enhance Your Beginner's GoPro Journey</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/exploring-the-distinctive-features-in-each-version-of-aomei-backupper-software/"><u>Exploring the Distinctive Features in Each Version of AOMEI Backupper Software</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/from-concept-to-completion-building-effective-facebook-covers/"><u>From Concept to Completion Building Effective Facebook Covers</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/guide-rapide-prenez-en-main-les-sauvegardes-incrementielles-avec-windows-server-n2012-methodes-aisees/"><u>Guide Rapide : Prenez en Main Les Sauvegardes Incrémentielles Avec Windows Server N°2012 - Méthodes Aisées</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-vivo-y100-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Vivo Y100 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/mastering-3d-luts-a-comprehensive-guide/"><u>Mastering 3D LUTs A Comprehensive Guide</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/1728475571964-sandisk-sd/"><u>SanDisk SDカードから失われたファイルを取り戻す簡単な方法【実用マニュアル】</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/simplify-your-system-quickly-clean-up-after-windows-11-updates-in-three-simple-steps/"><u>Simplify Your System: Quickly Clean Up After Windows 11 Updates in Three Simple Steps</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-recommended-iphone-email-clients-best-picks-for-2e24/"><u>Top Recommended iPhone Email Clients - Best Picks for 2E24</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/ultimate-troubleshooting-manual-how-to-unstick-windows-11-update-from-permanent-0-or-99/"><u>Ultimate Troubleshooting Manual: How to Unstick Windows 11 Update From Permanent 0% or 99%</u></a></li>
 </ul></div>
 

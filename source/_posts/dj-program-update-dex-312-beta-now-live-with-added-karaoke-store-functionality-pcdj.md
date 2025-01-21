@@ -1,7 +1,7 @@
 ---
 title: "DJ Program Update: Dex 3.12 Beta Now Live with Added Karaoke Store Functionality - PCDJ"
-date: 2025-01-08T21:23:51.827Z
-updated: 2025-01-14T17:30:55.291Z
+date: 2025-01-17T21:11:54.722Z
+updated: 2025-01-20T19:53:12.783Z
 tags:
   - product
 categories:
@@ -33,7 +33,7 @@ Since version 3.12 is considered a ‘[Public Beta](https://en.wikipedia.org/wik
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed, or Fixed in DEX 3 Version 3.12
@@ -52,7 +52,7 @@ _**Installation Instructions:** With your existing version of DEX 3 (Pro) closed
 _Have questions about our **top DJ mixing software** or the new features included in version 3.12? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -74,21 +74,19 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2018/11/karaoke-dex3-new-cover.jpg
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-youtube-mastery-starts-here-building-and-monetizing-your-channel/"><u>[New] 2024 Approved YouTube Mastery Starts Here Building and Monetizing Your Channel</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-tackling-photo-app-errors-in-windows-11/"><u>[New] Tackling Photo App Errors in Windows 11</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-elite-upgrades-top-picks-of-vr-handwear-devices/"><u>[Updated] 2024 Approved Elite Upgrades Top Picks of VR Handwear Devices</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-multitasking-mastery-activities-while-embracing-soundtracks/"><u>[Updated] Multitasking Mastery Activities While Embracing Soundtracks</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/1-checking-connected-peripherals-identifying-external-audio-drivers-in-your-windows-pc-insights-by-yl-computing/"><u>1. Checking Connected Peripherals: Identifying External Audio Drivers in Your Windows PC - Insights by YL Computing</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/1-speedy-methods-for-locating-targeted-files-on-your-pc-a-guide-by-yl-computing/"><u>1. Speedy Methods for Locating Targeted Files on Your PC: A Guide by YL Computing</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/how-can-you-personalize-your-windows-10-taskbar-settings-expert-tips-from-yl-computing/"><u>How Can You Personalize Your Windows 10 Taskbar Settings? - Expert Tips From YL Computing</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-infinix-hot-40i-bootloader-easily-by-drfone-android/"><u>How to Unlock Infinix Hot 40i Bootloader Easily</u></a></li>
-<li><a href="https://article-helps.techidaily.com/innovating-with-3d-text-effects-in-adobe-photoshop/"><u>Innovating with 3D Text Effects in Adobe Photoshop</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/learn-illustration-magic-a-guide-to-adobe-motion-blur/"><u>Learn Illustration Magic A Guide to Adobe Motion Blur</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/recognizing-troublesome-hardware-issues-on-your-windows-pc-a-guide-by-yl-computing/"><u>Recognizing Troublesome Hardware Issues on Your Windows PC - A Guide by YL Computing</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/solving-sound-sync-issues-fixing-windows-audio-lags-insights-from-yl-computing/"><u>Solving Sound Sync Issues: Fixing Windows Audio Lags - Insights From YL Computing</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/step-by-step-tutorial-on-adjusting-your-computers-hardware-settings-via-the-windows-control-panel-by-yl-computing/"><u>Step-by-Step Tutorial on Adjusting Your Computer's Hardware Settings via the Windows Control Panel by YL Computing</u></a></li>
-<li><a href="https://change-location.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-vivo-v30-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Vivo V30 | Dr.fone</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/tiktok-and-twittersphere-crossover-the-viral-vids-for-2024/"><u>TikTok and Twittersphere Crossover The Viral Vids for 2024</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/zelensky-stresses-importance-of-alliance-ukraine-risks-losing-crucial-backing-if-it-attacks-russia-advocates-for-political-solution-in-crimean-crisis-yl-com13/"><u>Zelensky Stresses Importance of Alliance: Ukraine Risks Losing Crucial Backing if It Attacks Russia, Advocates for Political Solution in Crimean Crisis – YL Computing | YL Software</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/irect-download-and-conversion-best-youtube-to-mp3-software/"><u>[New] Direct Download & Conversion Best YouTube to MP3 Software</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-memetic-innovations-ideas-that-delight-any-audience-for-2024/"><u>[Updated] Memetic Innovations Ideas That Delight Any Audience for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-6-competitive-video-apps-as-periscope-substitutes/"><u>2024 Approved 6 Competitive Video Apps as Periscope Substitutes</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-streamline-lesson-planning-with-recorder-tools/"><u>2024 Approved Streamline Lesson Planning with Recorder Tools</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/build-your-brand-memes-with-kinemaster/"><u>Build Your Brand Memes with KineMaster</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/erledigt-itunes-signalisiert-aktivierte-icloud-musikbibliothek-was-das-bedeutet/"><u>Erledigt: ITunes Signalisiert 'Aktivierte iCloud Musikbibliothek' - Was Das Bedeutet</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-fix-oem-unlock-missing-on-xiaomi-redmi-a2-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Xiaomi Redmi A2?</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-generating-a-youtube-auto-subscribe-direct-link/"><u>In 2024, Generating a YouTube Auto Subscribe Direct Link</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-12-passcode-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 12 Passcode without Computer?</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/itunes-error-3194-troubleshooting-and-solutions-for-win11win8win7-users/"><u>ITunes Error 3194: Troubleshooting & Solutions for Win11/Win8/Win7 Users</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/migliori-pratiche-per-il-backup-efficienti-di-compressione-dellattivita/"><u>Migliori Pratiche per Il Backup Efficienti Di Compressione Dell'Attività</u></a></li>
+<li><a href="https://some-tips.techidaily.com/post-prime-day-blowout-snag-the-new-apple-ipad-10th-gen-for-only-299-tech-news/"><u>Post-Prime Day Blowout: Snag the New Apple iPad (10Th Gen) for Only $299 - Tech News</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/simple-steps-for-migrating-your-windows-environment-across-computers/"><u>Simple Steps for Migrating Your Windows Environment Across Computers</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/verwendung-von-seagate-dashboards-unter-windows-11-erfolgversprechende-alternativen-und-anleitung/"><u>Verwendung Von Seagate-Dashboards Unter Windows 11: Erfolgversprechende Alternativen Und Anleitung</u></a></li>
 </ul></div>
 
