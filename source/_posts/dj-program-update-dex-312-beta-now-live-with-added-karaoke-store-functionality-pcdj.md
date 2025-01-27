@@ -1,7 +1,7 @@
 ---
 title: "DJ Program Update: Dex 3.12 Beta Now Live with Added Karaoke Store Functionality - PCDJ"
-date: 2025-01-17T21:11:54.722Z
-updated: 2025-01-20T19:53:12.783Z
+date: 2025-01-26T04:59:26.017Z
+updated: 2025-01-27T00:29:32.969Z
 tags:
   - product
 categories:
@@ -33,7 +33,7 @@ Since version 3.12 is considered a ‘[Public Beta](https://en.wikipedia.org/wik
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed, or Fixed in DEX 3 Version 3.12
@@ -52,7 +52,7 @@ _**Installation Instructions:** With your existing version of DEX 3 (Pro) closed
 _Have questions about our **top DJ mixing software** or the new features included in version 3.12? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -74,19 +74,20 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2018/11/karaoke-dex3-new-cover.jpg
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/irect-download-and-conversion-best-youtube-to-mp3-software/"><u>[New] Direct Download & Conversion Best YouTube to MP3 Software</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-memetic-innovations-ideas-that-delight-any-audience-for-2024/"><u>[Updated] Memetic Innovations Ideas That Delight Any Audience for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-6-competitive-video-apps-as-periscope-substitutes/"><u>2024 Approved 6 Competitive Video Apps as Periscope Substitutes</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-streamline-lesson-planning-with-recorder-tools/"><u>2024 Approved Streamline Lesson Planning with Recorder Tools</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/build-your-brand-memes-with-kinemaster/"><u>Build Your Brand Memes with KineMaster</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/erledigt-itunes-signalisiert-aktivierte-icloud-musikbibliothek-was-das-bedeutet/"><u>Erledigt: ITunes Signalisiert 'Aktivierte iCloud Musikbibliothek' - Was Das Bedeutet</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-fix-oem-unlock-missing-on-xiaomi-redmi-a2-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Xiaomi Redmi A2?</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-generating-a-youtube-auto-subscribe-direct-link/"><u>In 2024, Generating a YouTube Auto Subscribe Direct Link</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-12-passcode-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 12 Passcode without Computer?</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/itunes-error-3194-troubleshooting-and-solutions-for-win11win8win7-users/"><u>ITunes Error 3194: Troubleshooting & Solutions for Win11/Win8/Win7 Users</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/migliori-pratiche-per-il-backup-efficienti-di-compressione-dellattivita/"><u>Migliori Pratiche per Il Backup Efficienti Di Compressione Dell'Attività</u></a></li>
-<li><a href="https://some-tips.techidaily.com/post-prime-day-blowout-snag-the-new-apple-ipad-10th-gen-for-only-299-tech-news/"><u>Post-Prime Day Blowout: Snag the New Apple iPad (10Th Gen) for Only $299 - Tech News</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/simple-steps-for-migrating-your-windows-environment-across-computers/"><u>Simple Steps for Migrating Your Windows Environment Across Computers</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/verwendung-von-seagate-dashboards-unter-windows-11-erfolgversprechende-alternativen-und-anleitung/"><u>Verwendung Von Seagate-Dashboards Unter Windows 11: Erfolgversprechende Alternativen Und Anleitung</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-vrecorder-unpacked-step-by-step-download-procedures/"><u>[New] 2024 Approved VRecorder Unpacked Step-by-Step Download Procedures</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-charting-a-course-for-cash-flows-the-3-step-methodology-for-measuring-youtube-earnings/"><u>2024 Approved Charting a Course for Cash Flows The 3-Step Methodology for Measuring YouTube Earnings</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/easy-guide-to-relocating-files-and-folders-on-windows-tips-by-yl-computing/"><u>Easy Guide to Relocating Files and Folders on Windows - Tips by YL Computing</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/experts-reveal-the-leading-windows-data-recovery-tools-discover-how-yl-software-can-help-you-safeguard-your-files/"><u>Experts Reveal the Leading Windows Data Recovery Tools – Discover How YL Software Can Help You Safeguard Your Files</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-itel-p55plus-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Itel P55+ Phones with/without a PC</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/phony-botnet-chrome-addon-steals-social-media-passwords/"><u>Phony Botnet Chrome Addon: Steals Social Media Passwords</u></a></li>
+<li><a href="https://extra-information.techidaily.com/pioneering-seven-water-resilient-camera-brands/"><u>Pioneering Seven Water-Resilient Camera Brands</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/pros-recommendations-leading-video-editing-software-for-2024/"><u>Pros' Recommendations Leading Video Editing Software for 2024</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/protect-your-pc-from-cyber-dangers-a-comprehensive-guide-by-yl-software/"><u>Protect Your PC From Cyber Dangers: A Comprehensive Guide by YL Software</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quick-tips-to-enhance-performance-and-reduce-lag-in-your-elden-ring-adventure/"><u>Quick Tips to Enhance Performance & Reduce Lag in Your Elden Ring Adventure</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/reviving-your-gpu-expert-tips-on-repairing-graphics-cards-without-a-full-replacement-insights-by-yl-computing/"><u>Reviving Your GPU: Expert Tips on Repairing Graphics Cards Without a Full Replacement - Insights by YL Computing</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/understanding-printer-error-notifications-expert-advice-by-yl-software-solutions/"><u>Understanding Printer Error Notifications: Expert Advice by YL Software Solutions</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/understanding-the-reasons-behind-your-displays-stall-when-interacting-with-specific-hardware-insights-from-yl-computing-and-yl-software/"><u>Understanding the Reasons Behind Your Display's Stall When Interacting with Specific Hardware: Insights From YL Computing & YL Software</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/understanding-windows-defenders-process-of-detecting-and-protecting-against-malware-a-deep-dive-by-yl-computing/"><u>Understanding Windows Defender's Process of Detecting and Protecting Against Malware - A Deep Dive by YL Computing</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-soundscape-inversion-masterclass-identifying-the-premium-audio-reversers-available-today/"><u>Updated In 2024, Soundscape Inversion Masterclass Identifying the Premium Audio Reversers Available Today</u></a></li>
 </ul></div>
 

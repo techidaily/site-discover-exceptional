@@ -1,7 +1,7 @@
 ---
 title: "California Revisited: Insights & Highlights From the NAMM Experience"
-date: 2025-01-16T21:31:24.045Z
-updated: 2025-01-20T17:47:28.657Z
+date: 2025-01-20T21:51:50.013Z
+updated: 2025-01-26T16:57:06.347Z
 tags:
   - product
 categories:
@@ -38,7 +38,7 @@ I’ve just returned from SoCal after the grind, albeit a enjoyable one, that is
    While some DJs may be turned off by the lack of tactile hands-on control (pushing faders, twisting knobs, etc), the versatility and application for the KS32 is fascinating.If you’re a multi-media mixing DJ that does more than just mix music — the KS32 is a product to consider. Think “modes” and panels, switching from video mixing mode, to karaoke mode and on to lighting control. Since it’s template based the flexibility is truly endless. PCDJ users rejoice, as Smithson Martin will be working on a new template for DEX 3 soon!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -60,16 +60,20 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2016/01/nammreport-coverimage.jpg?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-steps-to-record-a-timelapse-video-on-ipad/"><u>[New] In 2024, Steps to Record a Timelapse Video on iPad</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-unlocking-top-notch-visuals-a-cost-free-approach/"><u>2024 Approved Unlocking Top-Notch Visuals A Cost-Free Approach</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/google6/"><u>共有ファイルの回復手順: Googleドライブでの6つの方法</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/die-effizienteste-methode-fur-das-reflektieren-von-windows-11-auf-einer-neuen-ssd-eine-umfassende-anleitung/"><u>Die Effizienteste Methode Für Das Reflektieren Von Windows 11 Auf Einer Neuen SSD: Eine Umfassende Anleitung</u></a></li>
-<li><a href="https://discover-data.techidaily.com/discover-the-best-set-of-more-than-24-handpicked-tailwind-css-templates-for-seamless-webmaster-and-control-panel-experience-crafted-by-creative-tim/"><u>Discover the Best Set of More than 24 Handpicked Tailwind CSS Templates for Seamless Webmaster and Control Panel Experience, Crafted by Creative Tim</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-nvidia-geforce-rtx-3090-drivers-for-older-windows-versions-10-8-and-7/"><u>Download NVIDIA GeForce RTX 3090 Drivers for Older Windows Versions (10, 8 & 7)</u></a></li>
-<li><a href="https://change-location.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Xiaomi Redmi Note 12 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/step-by-step-tutorial-direct-mp3-downloads-on-ios-devices/"><u>Step-by-Step Tutorial: Direct MP3 Downloads on iOS Devices</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/the-ultimate-guide-to-video-excellence-and-staff-picks-at-vimeo/"><u>The Ultimate Guide to Video Excellence & Staff Picks at Vimeo</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/top-clone-hdd-software-pour-windows-compatible-avec-win11-win10-win8-et-win7/"><u>Top Clone HDD Software Pour Windows - Compatible Avec Win11, Win10, Win8 Et Win7</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/ultimate-guide-saving-your-files-prior-to-a-full-windows-11-os-reboot/"><u>Ultimate Guide: Saving Your Files Prior to a Full Windows 11 OS Reboot</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-leading-mac-gif-recorders-the-ultimate-list/"><u>[New] Leading Mac GIF Recorders The Ultimate List</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-premier-ai-for-stunning-photo-creation/"><u>[New] Premier AI for Stunning Photo Creation</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-12-html5-videophones-for-optimal-viewing/"><u>[New] Top 12 HTML5 Videophones for Optimal Viewing</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-pathway-to-profitability-with-the-new-youtube-premium-program/"><u>[Updated] Pathway to Profitability with the New YouTube Premium Program</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/1-seamless-video-transfer-moving-files-from-ios-devices-iphone-ipad-to-usb-flash-drives/"><u>1. Seamless Video Transfer: Moving Files From iOS Devices (iPhone, iPad) to USB Flash Drives</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/astronomical-edit-improvements-customer-love/"><u>Astronomical Edit Improvements, Customer Love</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/boost-your-data-flow-overcoming-lag-in-samsung-t5s-file-transfers/"><u>Boost Your Data Flow: Overcoming Lag in Samsung T5's File Transfers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-fixes-how-to-restore-functionality-to-your-corsair-hs60-mic/"><u>Expert Fixes: How to Restore Functionality to Your Corsair HS60 Mic</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/how-to-fix-an-empty-folder-problem-on-windows-11-instantly/"><u>How to Fix an Empty Folder Problem on Windows 11 Instantly</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-lava-blaze-pro-5g-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Lava Blaze Pro 5G To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/optimizing-storage-space-with-advanced-compression-capabilities-in-aomei-backupper/"><u>Optimizing Storage Space with Advanced Compression Capabilities in AOMEI Backupper</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/recupera-i-driver-eliminati-in-windows-11-con-i-metodi-migliori-3-modi/"><u>Recupera I Driver Eliminati in Windows 11 Con I Metodi Migliori [3 Modi]</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/step-by-step-fixes-resolving-issues-with-windows-11s-startup-hang-on-the-welcome-interface/"><u>Step-by-Step Fixes: Resolving Issues with Windows 11'S Startup Hang on the Welcome Interface</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-honor-100-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Honor 100 Location | Dr.fone</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/trusted-solutions-troubleshooting-outlook-account-sync-issues-on-iphone-and-ipad/"><u>Trusted Solutions: Troubleshooting Outlook Account Sync Issues on iPhone and iPad</u></a></li>
 </ul></div>
 
