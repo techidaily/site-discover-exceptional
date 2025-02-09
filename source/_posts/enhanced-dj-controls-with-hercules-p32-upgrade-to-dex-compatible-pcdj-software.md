@@ -1,7 +1,7 @@
 ---
 title: Enhanced DJ Controls with Hercules P32 Upgrade to DEX-Compatible PCDJ Software
-date: 2025-01-21T20:34:04.158Z
-updated: 2025-01-26T17:30:42.692Z
+date: 2025-02-04T19:08:30.127Z
+updated: 2025-02-08T17:02:36.480Z
 tags:
   - product
 categories:
@@ -45,7 +45,7 @@ _**Note:** Improved support for some of the Hercules P32 capabilities will be av
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Hercules P32 General Features
@@ -81,7 +81,7 @@ _**Note:** Improved support for some of the Hercules P32 capabilities will be av
    * Each sample player can be individually set to Loop or Trigger mode (quantized or unquantized), and volume controlled
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Hercules P32 Specification’s
@@ -104,7 +104,7 @@ _**Note:** Improved support for some of the Hercules P32 capabilities will be av
 | Box Dimensions (LxWxH) | 16.5 x 10.8 x 3.2″ |
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -126,22 +126,17 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2016/12/herculesp32support-cover.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-podcast-profitability-analysis-for-2024/"><u>[New] Podcast Profitability Analysis for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-mastering-chromatics-a-practical-approach-for-2024/"><u>[Updated] Mastering Chromatics A Practical Approach for 2024</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/1728490553979-7/"><u>如何用7招快速修复電腦桌面不出現問題</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/best-methods-for-removing-windows-updates-on-windows-10/"><u>Best Methods for Removing Windows Updates on Windows 10</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/boosting-engagement-navigate-to-these-8-best-apps-for-post-timers-for-2024/"><u>Boosting Engagement Navigate to These 8 Best Apps for Post Timers for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/cheapest-facetime-on-android-highest-rated-apps/"><u>Cheapest FaceTime on Android Highest Rated Apps</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/come-creare-una-copia-di-ununita-ssd-nvme-su-windows/"><u>Come Creare Una Copia Di Un'unità SSD NVMe Su Windows</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-hardware-analysis-with-toms-technology-hub/"><u>Expert Hardware Analysis with Tom's Technology Hub</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/guida-passo-passo-allinstallazione-di-windows-11-in-modalita-bios-tradizionale-senza-secure-boot-e-tpm-necessari/"><u>Guida Passo-Passo All'Installazione Di Windows 11 in Modalità BIOS Tradizionale Senza Secure Boot E TPM Necessari</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-tecno-camon-30-pro-5g-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Tecno Camon 30 Pro 5G Phone FRP Lock</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/in-2024-what-to-pick-for-your-youtube-videos-ideal-formats-explored/"><u>In 2024, What to Pick for Your YouTube Videos? Ideal Formats Explored</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/losung-fur-den-nicht-bootbaren-usb-stick-mit-windows-10/"><u>Lösung Für Den Nicht Bootbaren USB-Stick Mit Windows 10</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/protegez-votre-pc-avec-des-backups-totaux-gratuits-sur-windows-action-immediate/"><u>Protégez Votre PC Avec Des Backups Totaux Gratuits Sur Windows - Action Immédiate</u></a></li>
-<li><a href="https://techidaily.com/sign-wbk-file-online-with-digisigner-by-ldigisigner-sign-a-word-sign-a-word/"><u>Sign .wbk file Online with DigiSigner</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/step-by-step-guide-for-removing-archive-history-entries-on-windows-10-or-11/"><u>Step-by-Step Guide for Removing Archive History Entries on Windows 10 or 11</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/step-by-step-guide-closing-persistent-dialog-boxes-in-windows-os/"><u>Step-by-Step Guide: Closing Persistent Dialog Boxes in Windows OS</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/youtube-shorts-earning-strategies-crucial-elements-possible-returns-for-2024/"><u>Youtube Shorts Earning Strategies Crucial Elements, Possible Returns for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-unleashing-potential-top-8-efficiency-boosters-for-social-media-tasks/"><u>[Updated] Unleashing Potential Top 8 Efficiency Boosters for Social Media Tasks</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-what-exactly-is-disconitro-insider-info-for-freepaid-users/"><u>[Updated] What Exactly Is DiscoNitro? Insider Info for Free/Paid Users</u></a></li>
+<li><a href="https://facebook.techidaily.com/authenticity-arena-vying-for-the-top-in-verified-metas-and-blue-ticks/"><u>Authenticity Arena: Vying for the Top in Verified Metas and Blue Ticks</u></a></li>
+<li><a href="https://fox-that.techidaily.com/combat-instagram-lags-with-these-easy-fixes-for-your-android-and-ios-device/"><u>Combat Instagram Lags with These Easy Fixes for Your Android and iOS Device</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/comprehensive-tutorial-on-utilizing-the-linking-function-in-apowerpdf/"><u>Comprehensive Tutorial on Utilizing the Linking Function in ApowerPDF</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/easy-techniques-for-protecting-your-images-with-personalized-watermarks/"><u>Easy Techniques for Protecting Your Images with Personalized Watermarks</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-nubia-red-magic-8s-proplus-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Nubia Red Magic 8S Pro+ Phone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-in-depth-exploration-of-theta-s-capabilities/"><u>In 2024, In-Depth Exploration of Theta S Capabilities</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/quick-guide-swiftly-moving-your-iphone-notes-to-pc-or-mac/"><u>Quick Guide: Swiftly Moving Your iPhone Notes to PC or Mac</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/step-by-step-guide-mastering-the-art-of-taking-screenshots-on-your-lg-device/"><u>Step-by-Step Guide: Mastering the Art of Taking Screenshots on Your LG Device</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-tecno-spark-10-5g-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Tecno Spark 10 5G FRP</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/top-techniques-for-transforming-your-mts-video-to-mp4-with-ease/"><u>Top Techniques for Transforming Your MTS Video to MP4 with Ease</u></a></li>
 </ul></div>
 
