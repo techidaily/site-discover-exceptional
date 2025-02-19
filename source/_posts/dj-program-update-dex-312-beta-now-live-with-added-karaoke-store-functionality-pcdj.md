@@ -1,7 +1,7 @@
 ---
 title: "DJ Program Update: Dex 3.12 Beta Now Live with Added Karaoke Store Functionality - PCDJ"
-date: 2025-02-02T22:37:31.316Z
-updated: 2025-02-08T16:25:51.365Z
+date: 2025-02-18T02:21:58.268Z
+updated: 2025-02-18T17:56:07.230Z
 tags:
   - product
 categories:
@@ -33,7 +33,7 @@ Since version 3.12 is considered a ‘[Public Beta](https://en.wikipedia.org/wik
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed, or Fixed in DEX 3 Version 3.12
@@ -52,7 +52,7 @@ _**Installation Instructions:** With your existing version of DEX 3 (Pro) closed
 _Have questions about our **top DJ mixing software** or the new features included in version 3.12? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -74,22 +74,19 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2018/11/karaoke-dex3-new-cover.jpg
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-dissecting-dji-inspire-2s-capabilities/"><u>[New] In 2024, Dissecting DJI Inspire 2'S Capabilities</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-breakthrough-techniques-in-youtube-content-creation-for-2024/"><u>[Updated] Breakthrough Techniques in YouTube Content Creation for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-streamlined-scheduling-combine-iphoneandroid-calendars-with-zoom/"><u>[Updated] In 2024, Streamlined Scheduling Combine iPhone/Android Calendars With Zoom</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-smart-solutions-iphone-content-to-computer/"><u>[Updated] Smart Solutions IPhone Content to Computer</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-screen-recorder-showdown-features-and-prices-compared/"><u>2024 Approved Screen Recorder Showdown Features and Prices Compared</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/comprehensive-tutorial-on-activating-shadow-copy-features-in-windows-server-2019/"><u>Comprehensive Tutorial on Activating Shadow Copy Features in Windows Server 2019</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/effiziente-problemlosungen-fur-die-fehlfunktion-des-wd-backup-dienstprogramms-in-verschiedenen-windows-versionen/"><u>Effiziente Problemlösungen Für Die Fehlfunktion Des WD Backup Dienstprogramms in Verschiedenen Windows-Versionen</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/guida-strategica-top-3-metodi-efficace-per-la-sincronizzazione-di-file-tra-server-windows/"><u>Guida Strategica: Top 3 Metodi Efficace per La Sincronizzazione Di File Tra Server Windows</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-the-power-disable-youtube-video-skip-triggers/"><u>In 2024, Unlocking the Power Disable YouTube Video Skip Triggers</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/interferons-are-part-of-the-immune-systems-first-line-of-defense-against-pathogens-and-tumor-cells/"><u>Interferons Are Part of the Immune System's First Line of Defense Against Pathogens and Tumor Cells.</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/pcwindows-1011usb-hdd/"><u>PCバックアップをマスターする:Windows 10/11でUSB HDDに自動保存方法</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-constant-crashes-in-remnant-from-the-ashes-a-comprehensive-guide/"><u>Resolving Constant Crashes in Remnant: From the Ashes - A Comprehensive Guide</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/soluciona-el-inicio-lento-de-tu-ssd-en-windows-11-con-estos-8-metodos-eficaces/"><u>Soluciona El Inicio Lento De Tu SSD en Windows 11 Con Estos 8 Métodos Eficaces</u></a></li>
-<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-poco-c51-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Poco C51 ? Fix It Easily | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/ultimate-guide-selecting-the-perfect-vpn-to-protect-and-access-youtube-anywhere/"><u>Ultimate Guide: Selecting the Perfect VPN to Protect & Access YouTube Anywhere</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/1728474560064-windows-1011/"><u>Windows 10/11前期版本数据恢复工具解密</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/1728504112697-windows-11-0x807800c5/"><u>Windows 11 備份時遇到 0X807800c5 錯誤碼? - 簡單修正方法</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-maximizing-play-in-apex-legends-without-cross-platform-limitations-for-2024/"><u>[New] Maximizing Play in Apex Legends Without Cross-Platform Limitations for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-elite-on-demand-recording-best-action-cams/"><u>[Updated] In 2024, Elite On-Demand Recording Best Action Cams</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-virtual-epiphanies-30plus-metaverse-quotations-and-tech-for-2024/"><u>[Updated] Virtual Epiphanies 30+ Metaverse Quotations & Tech for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/a-new-era-for-domestic-automation-ai-and-chatgpts-alliance/"><u>A New Era for Domestic Automation: AI and ChatGPT's Alliance</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/different-methods-to-unlock-your-iphone-15-pro-max-by-drfone-ios/"><u>Different Methods To Unlock Your iPhone 15 Pro Max</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/expert-tips-for-successfully-upgrading-audio-card-drivers-from-yl-software-specialists/"><u>Expert Tips for Successfully Upgrading Audio Card Drivers From YL Software Specialists</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/how-and-why-is-my-computers-processor-running-slower-than-it-should-insights-from-experts-at-yl-software/"><u>How and Why Is My Computer's Processor Running Slower Than It Should? Insights From Experts at YL Software</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/how-to-set-up-a-new-user-profile-on-yl-computing-platforms/"><u>How to Set Up a New User Profile on YL Computing Platforms</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-vivo-x100-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Vivo X100? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-infinix-hot-30i-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Infinix Hot 30i Device</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/join-our-free-online-demo-and-qanda-on-jammtext-learn-dj-tips-with-us-on-oct-27-8-pm-est-via-facebook/"><u>Join Our Free Online Demo & Q&A on JammText - Learn DJ Tips with Us on Oct. 27, 8 PM EST via Facebook</u></a></li>
+<li><a href="https://win-online.techidaily.com/mastering-online-presence-with-advanced-techniques-from-massmail-solutions/"><u>Mastering Online Presence with Advanced Techniques From MassMail Solutions</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/superior-sound-top-10-podcast-recording-mics/"><u>Superior Sound Top 10 Podcast Recording Mics</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/top-tracks-years-best-plays-ultimate-list-and-pioneers-of-sound/"><u>Top Tracks, Year's Best Plays, Ultimate List, and Pioneers of Sound.</u></a></li>
 </ul></div>
 

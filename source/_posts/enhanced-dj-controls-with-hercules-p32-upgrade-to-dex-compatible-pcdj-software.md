@@ -1,7 +1,7 @@
 ---
 title: Enhanced DJ Controls with Hercules P32 Upgrade to DEX-Compatible PCDJ Software
-date: 2025-02-04T19:08:30.127Z
-updated: 2025-02-08T17:02:36.480Z
+date: 2025-02-15T21:53:15.501Z
+updated: 2025-02-19T04:14:14.058Z
 tags:
   - product
 categories:
@@ -45,7 +45,7 @@ _**Note:** Improved support for some of the Hercules P32 capabilities will be av
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Hercules P32 General Features
@@ -81,7 +81,7 @@ _**Note:** Improved support for some of the Hercules P32 capabilities will be av
    * Each sample player can be individually set to Loop or Trigger mode (quantized or unquantized), and volume controlled
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Hercules P32 Specification’s
@@ -104,7 +104,7 @@ _**Note:** Improved support for some of the Hercules P32 capabilities will be av
 | Box Dimensions (LxWxH) | 16.5 x 10.8 x 3.2″ |
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -126,17 +126,20 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2016/12/herculesp32support-cover.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/updated-unleashing-potential-top-8-efficiency-boosters-for-social-media-tasks/"><u>[Updated] Unleashing Potential Top 8 Efficiency Boosters for Social Media Tasks</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-what-exactly-is-disconitro-insider-info-for-freepaid-users/"><u>[Updated] What Exactly Is DiscoNitro? Insider Info for Free/Paid Users</u></a></li>
-<li><a href="https://facebook.techidaily.com/authenticity-arena-vying-for-the-top-in-verified-metas-and-blue-ticks/"><u>Authenticity Arena: Vying for the Top in Verified Metas and Blue Ticks</u></a></li>
-<li><a href="https://fox-that.techidaily.com/combat-instagram-lags-with-these-easy-fixes-for-your-android-and-ios-device/"><u>Combat Instagram Lags with These Easy Fixes for Your Android and iOS Device</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/comprehensive-tutorial-on-utilizing-the-linking-function-in-apowerpdf/"><u>Comprehensive Tutorial on Utilizing the Linking Function in ApowerPDF</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/easy-techniques-for-protecting-your-images-with-personalized-watermarks/"><u>Easy Techniques for Protecting Your Images with Personalized Watermarks</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-nubia-red-magic-8s-proplus-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Nubia Red Magic 8S Pro+ Phone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-in-depth-exploration-of-theta-s-capabilities/"><u>In 2024, In-Depth Exploration of Theta S Capabilities</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/quick-guide-swiftly-moving-your-iphone-notes-to-pc-or-mac/"><u>Quick Guide: Swiftly Moving Your iPhone Notes to PC or Mac</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/step-by-step-guide-mastering-the-art-of-taking-screenshots-on-your-lg-device/"><u>Step-by-Step Guide: Mastering the Art of Taking Screenshots on Your LG Device</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-tecno-spark-10-5g-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Tecno Spark 10 5G FRP</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/top-techniques-for-transforming-your-mts-video-to-mp4-with-ease/"><u>Top Techniques for Transforming Your MTS Video to MP4 with Ease</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-transforming-vision-into-visual-storytelling-with-windows-11-techniques/"><u>[New] 2024 Approved Transforming Vision Into Visual Storytelling with Windows 11 Techniques</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-becoming-snapstreak-savvy-tips-for-uninterrupted-connection/"><u>2024 Approved Becoming Snapstreak Savvy Tips for Uninterrupted Connection</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/can-you-use-this-sound-card-on-your-windows-setup-find-out-now-with-pc-help-hub/"><u>Can You Use This Sound Card on Your Windows Setup? Find Out Now with PC Help Hub!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/cell-phone-renewal-cycle-determining-your-best-upgrade-interval/"><u>Cell Phone Renewal Cycle: Determining Your Best Upgrade Interval</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conquering-exe-execution-challenges-on-win-10/"><u>Conquering EXE Execution Challenges on Win 10</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/copyright-free-gaming-scores-the-10-leading-sources-for-2024/"><u>Copyright-Free Gaming Scores – The 10 Leading Sources for 2024</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/exclusive-karaoke-streaming-service-join-party-tymes-sing-along-library/"><u>Exclusive Karaoke Streaming Service - Join Party Tyme's Sing-Along Library!</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/expert-insights-on-why-your-laptop-gets-hot-tips-and-tricks-for-optimal-cooling-presented-by-yl-computing-solutions/"><u>Expert Insights on Why Your Laptop Gets Hot: Tips and Tricks for Optimal Cooling - Presented by YL Computing Solutions</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/exploring-the-features-a-deep-dive-into-synologys-rt2600ac-wi-fi-router-long-range-and-parental-controls-included/"><u>Exploring the Features: A Deep Dive Into Synology's RT2600ac Wi-Fi Router - Long Range and Parental Controls Included</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/get-your-laptops-speakers-working-again-tips-and-solutions-for-sound-restoration/"><u>Get Your Laptop's Speakers Working Again: Tips and Solutions for Sound Restoration</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-oppo-reno-11f-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Oppo Reno 11F 5G without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://win-lab.techidaily.com/integrating-windows-defender-and-additional-antivirus-solutions-compatibility-guide-insights-by-yl-computing/"><u>Integrating Windows Defender and Additional Antivirus Solutions: Compatibility Guide - Insights by YL Computing</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/personalizing-your-pc-experience-a-guide-to-tweaking-windows-control-panel-preferences/"><u>Personalizing Your PC Experience: A Guide to Tweaking Windows Control Panel Preferences</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/unlock-endless-singing-fun-join-the-elite-with-karaoke-cloud-pro-access-top-20-chart-toppers-today/"><u>Unlock Endless Singing Fun: Join the Elite with Karaoke Cloud Pro – Access Top 20 Chart-Toppers Today!</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/unraveling-the-mystery-why-does-your-pc-crash-at-boot-with-windows-expert-insights-from-yl-computing/"><u>Unraveling the Mystery: Why Does Your PC Crash at Boot with Windows - Expert Insights From YL Computing</u></a></li>
 </ul></div>
 

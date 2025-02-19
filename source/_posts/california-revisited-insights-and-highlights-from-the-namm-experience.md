@@ -1,7 +1,7 @@
 ---
 title: "California Revisited: Insights & Highlights From the NAMM Experience"
-date: 2025-02-06T23:09:29.423Z
-updated: 2025-02-08T16:04:39.757Z
+date: 2025-02-13T21:01:04.228Z
+updated: 2025-02-19T01:40:16.711Z
 tags:
   - product
 categories:
@@ -38,7 +38,7 @@ I’ve just returned from SoCal after the grind, albeit a enjoyable one, that is
    While some DJs may be turned off by the lack of tactile hands-on control (pushing faders, twisting knobs, etc), the versatility and application for the KS32 is fascinating.If you’re a multi-media mixing DJ that does more than just mix music — the KS32 is a product to consider. Think “modes” and panels, switching from video mixing mode, to karaoke mode and on to lighting control. Since it’s template based the flexibility is truly endless. PCDJ users rejoice, as Smithson Martin will be working on a new template for DEX 3 soon!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -60,22 +60,24 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2016/01/nammreport-coverimage.jpg?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-next-level-content-creation-tools-post-vimeo/"><u>[New] In 2024, Next-Level Content Creation Tools, Post-Vimeo</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-pro-level-webcams-the-ultimate-choice-for-your-podcasts/"><u>[Updated] In 2024, Pro Level Webcams The Ultimate Choice for Your Podcasts</u></a></li>
-<li><a href="https://extra-information.techidaily.com/5-prized-mac-compatible-live-streamers/"><u>5 Prized Mac-Compatible Live Streamers</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/best-chromecast-substitutes-top-5-picks-of-2019/"><u>Best ChromeCast Substitutes: Top 5 Picks of 2019</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/complete-guide-eliminating-googles-presence-in-your-daily-routine-using-malwarefox/"><u>Complete Guide: Eliminating Google's Presence in Your Daily Routine Using MalwareFox</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-google-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Google Phone</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/how-to-effortlessly-sign-a-pdf-using-an-ipad/"><u>How to Effortlessly Sign a PDF Using an iPad</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/how-to-record-and-enjoy-disney-plus-content-without-an-internet-connection/"><u>How to Record and Enjoy Disney Plus Content Without an Internet Connection</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-after-format-on-samsung-galaxy-a15-4g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery after format on Samsung Galaxy A15 4G</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-best-5-high-end-drones-for-professionals/"><u>In 2024, Best 5 High-End Drones for Professionals</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-implementing-gradual-intensity-boost-in-audio-projects/"><u>In 2024, Implementing Gradual Intensity Boost in Audio Projects</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-oppo-a78-5g-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Oppo A78 5G to iPhone 14/15 | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-ultimate-guide-on-apple-iphone-xr-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, Ultimate Guide on Apple iPhone XR iCloud Activation Lock Bypass</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/powerful-pdf-underlining-tool-enhance-your-readability-by-selectively-coloring-text-in-pdf-files/"><u>Powerful PDF Underlining Tool - Enhance Your Readability by Selectively Coloring Text in PDF Files</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/step-by-step-guide-converting-videobutton-format-vob-to-windows-media-video-wmv-for-easy-playback/"><u>Step-by-Step Guide: Converting Videobutton Format (VOB) to Windows Media Video (WMV) for Easy Playback</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/top-rated-clear-image-enhancement-tools-and-leading-high-quality/"><u>Top Rated, Clear Image Enhancement Tools, and Leading High-Quality.</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/ultimate-guide-broadcasting-video-games-live-on-twitch/"><u>Ultimate Guide: Broadcasting Video Games Live on Twitch</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-prime-backdrops-for-effective-virtual-gatherings/"><u>[New] 2024 Approved Prime Backdrops for Effective Virtual Gatherings</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/1-easy-steps-reinstall-windows-11-via-command-prompt/"><u>1. Easy Steps: Reinstall Windows 11 via Command Prompt</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-echoes-of-the-past-the-top-10-youtube-sources-for-history-lovers/"><u>2024 Approved Echoes of the Past The Top 10 YouTube Sources for History Lovers</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/windows-106/"><u>解決Windows 10重新安裝問題：6個成功的技巧</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/comment-changer-le-systeme-dexploitation-sur-un-nouveau-hdd-guide-complet/"><u>Comment Changer Le Système D'Exploitation Sur Un Nouveau HDD: Guide Complet</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/curing-repeated-printer-errors-in-windows-107-environments/"><u>Curing Repeated Printer Errors in Windows 10/7 Environments</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/effortless-guide-free-steps-to-make-a-complete-pc-clone-on-windows-11/"><u>Effortless Guide: Free Steps to Make a Complete PC Clone on Windows 11</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/how-to-achieve-slick-sound-segmentation-in-premiere-for-2024/"><u>How to Achieve Slick Sound Segmentation in Premiere for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-12-pro-max-to-other-iphone-15-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 12 Pro Max To Other iPhone 15 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-partedpicture-breakdown/"><u>In 2024, PartedPicture Breakdown</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-periscope-uncovered-free-entry-details-and-signup-method/"><u>In 2024, Periscope Uncovered Free Entry Details and Signup Method</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-tips-and-tricks-to-tell-if-your-apple-iphone-13-mini-is-unlocked-by-drfone-ios/"><u>In 2024, Tips And Tricks To Tell if Your Apple iPhone 13 mini Is Unlocked</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-vivo-y100t-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Vivo Y100t | Dr.fone</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/instant-solutions-how-to-address-google-drives-sync-issues-on-a-mac-computer/"><u>Instant Solutions: How to Address Google Drive's Sync Issues on a Mac Computer</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/solution-guide-for-eliminating-constant-load-times-in-elden-ring-across-consoles-and-pc/"><u>Solution Guide for Eliminating Constant Load Times in Elden Ring Across Consoles and PC</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/step-by-step-tutorial-connecting-and-using-an-sd-card-with-your-mac-computer/"><u>Step-by-Step Tutorial: Connecting and Using an SD Card with Your Mac Computer</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/windows-pc3/"><u>Windows オペレーティングシステム搭載ノートPCを工場出荷状態に復元する3つの手法</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/youtube-slow-how-to-slow-down-youtube-videos-3-ways/"><u>YouTube Slow How to Slow Down YouTube Videos [3 Ways]</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/1728510176490-pcos/"><u>ノートPC用OS変更の応急策：デスクトップシステムへの完全な移行方法</u></a></li>
 </ul></div>
 
