@@ -1,7 +1,7 @@
 ---
 title: Enhanced DJ Controls with Hercules P32 Upgrade to DEX-Compatible PCDJ Software
-date: 2025-02-15T21:53:15.501Z
-updated: 2025-02-19T04:14:14.058Z
+date: 2025-03-03T16:12:36.516Z
+updated: 2025-03-07T16:01:52.659Z
 tags:
   - product
 categories:
@@ -44,10 +44,6 @@ _**Note:** Improved support for some of the Hercules P32 capabilities will be av
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Hercules P32 General Features
 
 * 3 Band EQ (per deck): Hi, Mid, Low
@@ -80,10 +76,6 @@ _**Note:** Improved support for some of the Hercules P32 capabilities will be av
    * Each sampler has 4 layers, so you can load up to 16 samples per deck  
    * Each sample player can be individually set to Loop or Trigger mode (quantized or unquantized), and volume controlled
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Hercules P32 Specification’s
 
 | Deck Control                | 8x Transport Buttons: SHIFT / PLAY / CUE / SYNC2x matrices of 16 pads each (32 pads in total) with two-color backlighting and 4 associated mode buttons (SAMPLER, SLICER, LOOP, HOTCUE)2x effects sections, each composed of 4 potentiometers and 4 activation buttons2x rotary encoders with integrated switch to control loops (LOOP) and tempo2x double 7-segment displays to view the size of the loop in progress2x rotary encoders with integrated switch to control filter (FILTER) and navigation |
@@ -102,10 +94,6 @@ _**Note:** Improved support for some of the Hercules P32 capabilities will be av
 | ---------------------- | ------------------ |
 | Package Weight         | 4.0 lb             |
 | Box Dimensions (LxWxH) | 16.5 x 10.8 x 3.2″ |
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -126,20 +114,24 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2016/12/herculesp32support-cover.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-transforming-vision-into-visual-storytelling-with-windows-11-techniques/"><u>[New] 2024 Approved Transforming Vision Into Visual Storytelling with Windows 11 Techniques</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-becoming-snapstreak-savvy-tips-for-uninterrupted-connection/"><u>2024 Approved Becoming Snapstreak Savvy Tips for Uninterrupted Connection</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/can-you-use-this-sound-card-on-your-windows-setup-find-out-now-with-pc-help-hub/"><u>Can You Use This Sound Card on Your Windows Setup? Find Out Now with PC Help Hub!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/cell-phone-renewal-cycle-determining-your-best-upgrade-interval/"><u>Cell Phone Renewal Cycle: Determining Your Best Upgrade Interval</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/conquering-exe-execution-challenges-on-win-10/"><u>Conquering EXE Execution Challenges on Win 10</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/copyright-free-gaming-scores-the-10-leading-sources-for-2024/"><u>Copyright-Free Gaming Scores – The 10 Leading Sources for 2024</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/exclusive-karaoke-streaming-service-join-party-tymes-sing-along-library/"><u>Exclusive Karaoke Streaming Service - Join Party Tyme's Sing-Along Library!</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/expert-insights-on-why-your-laptop-gets-hot-tips-and-tricks-for-optimal-cooling-presented-by-yl-computing-solutions/"><u>Expert Insights on Why Your Laptop Gets Hot: Tips and Tricks for Optimal Cooling - Presented by YL Computing Solutions</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/exploring-the-features-a-deep-dive-into-synologys-rt2600ac-wi-fi-router-long-range-and-parental-controls-included/"><u>Exploring the Features: A Deep Dive Into Synology's RT2600ac Wi-Fi Router - Long Range and Parental Controls Included</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/get-your-laptops-speakers-working-again-tips-and-solutions-for-sound-restoration/"><u>Get Your Laptop's Speakers Working Again: Tips and Solutions for Sound Restoration</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-oppo-reno-11f-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Oppo Reno 11F 5G without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://win-lab.techidaily.com/integrating-windows-defender-and-additional-antivirus-solutions-compatibility-guide-insights-by-yl-computing/"><u>Integrating Windows Defender and Additional Antivirus Solutions: Compatibility Guide - Insights by YL Computing</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/personalizing-your-pc-experience-a-guide-to-tweaking-windows-control-panel-preferences/"><u>Personalizing Your PC Experience: A Guide to Tweaking Windows Control Panel Preferences</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/unlock-endless-singing-fun-join-the-elite-with-karaoke-cloud-pro-access-top-20-chart-toppers-today/"><u>Unlock Endless Singing Fun: Join the Elite with Karaoke Cloud Pro – Access Top 20 Chart-Toppers Today!</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/unraveling-the-mystery-why-does-your-pc-crash-at-boot-with-windows-expert-insights-from-yl-computing/"><u>Unraveling the Mystery: Why Does Your PC Crash at Boot with Windows - Expert Insights From YL Computing</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-streamlining-your-monetization-mastering-youtube-adsense/"><u>[New] Streamlining Your Monetization Mastering YouTube AdSense</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-master-image-tweaks-with-snapseed-for-newbies/"><u>[Updated] 2024 Approved Master Image Tweaks with Snapseed for Newbies</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-best-online-recording-apps-perfect-for-discord-chat-rooms/"><u>[Updated] In 2024, Best Online Recording Apps Perfect for Discord Chat Rooms</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-becoming-an-smm-virtuoso-the-ultimate-pathway-of-10-strategic-steps/"><u>2024 Approved Becoming an SMM Virtuoso The Ultimate Pathway of 10 Strategic Steps</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-elevate-your-recordings-mastering-zooms-features-for-audio-quality/"><u>2024 Approved Elevate Your Recordings Mastering Zoom's Features for Audio Quality</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-kiddie-koala-race-relays/"><u>2024 Approved Kiddie Koala Race Relays</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-transforming-gaming-logs-alternatives-to-fbx-recording/"><u>2024 Approved Transforming Gaming Logs Alternatives to FBX Recording</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-unlock-from-apple-iphone-11-pro-max-how-to-fix-it-by-drfone-ios/"><u>Apple ID Unlock From Apple iPhone 11 Pro Max? How to Fix it?</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/clona-tu-disco-duro-mas-rapidamente-tecnicas-sencillas-para-windows-10-8-y-7/"><u>Clona Tu Disco Duro Más Rápidamente: Técnicas Sencillas Para Windows 10, 8 Y 7</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/come-effettuare-facilmente-un-backup-completo-di-windows-11-8-o-7/"><u>Come Effettuare Facilmente Un Backup Completo Di Windows 11, 8 O 7</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/como-hacer-una-copia-de-seguridad-total-y-gratuita-del-disco-duro-en-unidades-ssd-de-crucial/"><u>Cómo Hacer Una Copia De Seguridad Total Y Gratuita Del Disco Duro en Unidades SSD De Crucial</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/einfach-und-effizient-bringt-ihr-system-mit-diesen-tipps-zum-schnellzugriff-bei-windows-ebenerdig/"><u>Einfach Und Effizient: Bringt Ihr System Mit Diesen Tipps Zum Schnellzugriff Bei Windows Ebenerdig!</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-laugh-ledger-premium-free-meme-collections/"><u>In 2024, Laugh Ledger Premium, FREE Meme Collections</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/iphone-contact-management-effective-strategies-to-preserve-your-connections-without-relying-on-itunes-3-options/"><u>IPhone Contact Management: Effective Strategies to Preserve Your Connections without Relying on iTunes (3 Options)</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/macrium-reflect-is-it-still-free-or-time-for-a-top-rated-substitute/"><u>Macrium Reflect: Is It Still Free or Time for a Top-Rated Substitute?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-the-art-of-screenshots-a-comprehensive-hp-laptop-manual/"><u>Mastering the Art of Screenshots: A Comprehensive HP Laptop Manual</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/successfully-recover-the-dll-registration-service-on-your-windows-10-pc-using-this-guide/"><u>Successfully Recover the DLL Registration Service on Your Windows 10 PC Using This Guide</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/transferring-your-memories-safely-cost-free-techniques-for-saving-google-photos-on-icloud/"><u>Transferring Your Memories Safely: Cost-Free Techniques for Saving Google Photos on iCloud</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/wiedererlangung-geloschter-bilder-auf-sd-speicherkarten-gratis-entdeckt-die-7-effektivsten-techniken/"><u>Wiedererlangung Gelöschter Bilder Auf SD-Speicherkarten Gratis - Entdeckt Die 7 Effektivsten Techniken!</u></a></li>
 </ul></div>
 

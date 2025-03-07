@@ -1,7 +1,7 @@
 ---
 title: "California Revisited: Insights & Highlights From the NAMM Experience"
-date: 2025-02-13T21:01:04.228Z
-updated: 2025-02-19T01:40:16.711Z
+date: 2025-03-01T16:01:30.205Z
+updated: 2025-03-07T16:12:28.256Z
 tags:
   - product
 categories:
@@ -37,10 +37,6 @@ I’ve just returned from SoCal after the grind, albeit a enjoyable one, that is
    [![Smithson Martin KS32 Control surface](https://i2.wp.com/pcdj.com/wp-content/uploads/2016/01/88fb4da1-de6b-456c-a519-daf19024bc49.jpg?fit=300%2C300&ssl=1 "Smithson Martin KS32")](https://i2.wp.com/pcdj.com/wp-content/uploads/2016/01/88fb4da1-de6b-456c-a519-daf19024bc49.jpg?fit=1030%2C1030&ssl=1)  
    While some DJs may be turned off by the lack of tactile hands-on control (pushing faders, twisting knobs, etc), the versatility and application for the KS32 is fascinating.If you’re a multi-media mixing DJ that does more than just mix music — the KS32 is a product to consider. Think “modes” and panels, switching from video mixing mode, to karaoke mode and on to lighting control. Since it’s template based the flexibility is truly endless. PCDJ users rejoice, as Smithson Martin will be working on a new template for DEX 3 soon!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### _Related_
 
 https://i1.wp.com/pcdj.com/wp-content/uploads/2016/01/nammreport-coverimage.jpg?fit=530%2C298&ssl=1 298 530 Ryan Sherr https://www.pcdj.com/wp-content/uploads/2021/07/pcdj-main-logo-2.png Ryan Sherr2016-01-26 12:06:272018-10-03 15:34:54Going Back To Cali | Our Take-Aways From NAMM}
@@ -60,24 +56,17 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2016/01/nammreport-coverimage.jpg?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-prime-backdrops-for-effective-virtual-gatherings/"><u>[New] 2024 Approved Prime Backdrops for Effective Virtual Gatherings</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/1-easy-steps-reinstall-windows-11-via-command-prompt/"><u>1. Easy Steps: Reinstall Windows 11 via Command Prompt</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-echoes-of-the-past-the-top-10-youtube-sources-for-history-lovers/"><u>2024 Approved Echoes of the Past The Top 10 YouTube Sources for History Lovers</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/windows-106/"><u>解決Windows 10重新安裝問題：6個成功的技巧</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/comment-changer-le-systeme-dexploitation-sur-un-nouveau-hdd-guide-complet/"><u>Comment Changer Le Système D'Exploitation Sur Un Nouveau HDD: Guide Complet</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/curing-repeated-printer-errors-in-windows-107-environments/"><u>Curing Repeated Printer Errors in Windows 10/7 Environments</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/effortless-guide-free-steps-to-make-a-complete-pc-clone-on-windows-11/"><u>Effortless Guide: Free Steps to Make a Complete PC Clone on Windows 11</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/how-to-achieve-slick-sound-segmentation-in-premiere-for-2024/"><u>How to Achieve Slick Sound Segmentation in Premiere for 2024</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-12-pro-max-to-other-iphone-15-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 12 Pro Max To Other iPhone 15 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-partedpicture-breakdown/"><u>In 2024, PartedPicture Breakdown</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-periscope-uncovered-free-entry-details-and-signup-method/"><u>In 2024, Periscope Uncovered Free Entry Details and Signup Method</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-tips-and-tricks-to-tell-if-your-apple-iphone-13-mini-is-unlocked-by-drfone-ios/"><u>In 2024, Tips And Tricks To Tell if Your Apple iPhone 13 mini Is Unlocked</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-vivo-y100t-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Vivo Y100t | Dr.fone</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/instant-solutions-how-to-address-google-drives-sync-issues-on-a-mac-computer/"><u>Instant Solutions: How to Address Google Drive's Sync Issues on a Mac Computer</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/solution-guide-for-eliminating-constant-load-times-in-elden-ring-across-consoles-and-pc/"><u>Solution Guide for Eliminating Constant Load Times in Elden Ring Across Consoles and PC</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/step-by-step-tutorial-connecting-and-using-an-sd-card-with-your-mac-computer/"><u>Step-by-Step Tutorial: Connecting and Using an SD Card with Your Mac Computer</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/windows-pc3/"><u>Windows オペレーティングシステム搭載ノートPCを工場出荷状態に復元する3つの手法</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/youtube-slow-how-to-slow-down-youtube-videos-3-ways/"><u>YouTube Slow How to Slow Down YouTube Videos [3 Ways]</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/1728510176490-pcos/"><u>ノートPC用OS変更の応急策：デスクトップシステムへの完全な移行方法</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/budget-sleek-shields-for-apples-13-inch-laptop-our-comprehensive-macbook-case-evaluation/"><u>Budget Sleek Shields for Apple's 13-Inch Laptop - Our Comprehensive MacBook Case Evaluation</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-oneplus-12-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On OnePlus 12? | Dr.fone</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/guide-expert-comment-convertir-de-justesse-vos-fichiers-chk-en-version-originelle/"><u>Guide Expert: Comment Convertir De Justesse Vos Fichiers CHK en Version Originelle</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-to-vivo-s18e-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Vivo S18e FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-effective-ways-to-fix-checkra1n-error-31-on-apple-iphone-6-plus-by-drfone-ios/"><u>In 2024, Effective Ways To Fix Checkra1n Error 31 On Apple iPhone 6 Plus</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-vivo-s18-pro-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Vivo S18 Pro | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-lava-storm-5g-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Lava Storm 5G Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/install-epson-wf-2540-printer-drivers-on-windows-7-81-and-10-systems/"><u>Install Epson WF-2540 Printer Drivers on Windows 7, 8.1 and 10 Systems</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/navigating-through-hardware-virtualization-in-vmware-vsphere-environments/"><u>Navigating Through Hardware Virtualization in VMware vSphere Environments</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/sichere-moglichkeiten-um-bilder-von-ios-geraten-auf-pc-zu-ubertragen-top-6-losungen-mitohne-itunes/"><u>Sichere Möglichkeiten, Um Bilder Von iOS-Geräten Auf PC Zu Übertragen - Top 6 Lösungen Mit/Ohne iTunes</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-voice-memo-reference-manual-for-2024/"><u>The Ultimate Voice Memo Reference Manual for 2024</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/1728486621220-windows-1111/"><u>Windows 11/11 版本：如何恢复删除的用户配置文件 - 三种有效解决方案</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Fixes: Resolving Issues with Windows 11'S Startup Hang on the Welcome Interface"
-date: 2025-02-11T20:29:37.654Z
-updated: 2025-02-18T23:44:03.338Z
+date: 2025-03-05T16:11:51.932Z
+updated: 2025-03-07T16:01:53.677Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/cbf413290d1b7e29d9934e3ea1990c5dc72e7e77a07dc3de6c6added5ee7ee53.jpg
@@ -45,10 +45,6 @@ NAS Buffalo est la solution idéale pour la protection des données et peut faci
 
 Ne vous inquiétez pas trop. Vous pouvez envisager d'utiliser un logiciel de sauvegarde NAS tiers pour vous aider. [AOMEI Backupper Standard](https://tools.techidaily.com/ubackup/products/) est un excellent choix en raison de sa grande compatibilité (prise en charge de Windows 7/8/10/11/XP/Vista), de sa gratuité, de sa facilité d'utilisation, de sa flexibilité et de ses fonctionnalités riches.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Avantages du logiciel de sauvegarde NAS Buffalo - AOMEI Backupper Standard
 
 AOMEI Backupper Standard est un logiciel de sauvegarde tout-en-un pour Windows 11/10/8/7/XP/Vista qui prend en charge la sauvegarde de fichiers, de systèmes, de disques et de partitions en seulement quelques étapes simples. Vous pouvez profiter des avantages suivants :
@@ -65,10 +61,6 @@ Toutes les opérations s'effectuent dans une interface intuitive, ce qui permet 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-logo-ab-32.svg)AOMEI Backupper
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Meilleur logiciel de sauvegarde Windows gratuit pour usage personnel.
 
 [**Télécharger gratuiciel** Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/)
@@ -81,10 +73,6 @@ Avant de commencer à sauvegarder des fichiers avec le logiciel de sauvegarde NA
 
 [![sauvegarde de fichiers](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/sauvegarde-de-fichiers.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Vous pouvez également choisir _Sauvegarde de disque_ et _Sauvegarde de partition_. Si vous souhaitez sauvegarder le système sur le NAS Buffalo, essayez la fonctionnalité de [Sauvegarde système](https://tools.techidaily.com/ubackup/products/).
 
 **Étape 2.** Sélectionnez les fichiers ou les dossiers sur le lecteur NAS Buffalo.
@@ -92,10 +80,6 @@ Vous pouvez également choisir _Sauvegarde de disque_ et _Sauvegarde de partitio
 Tout d'abord, cliquez sur **Ajouter un dossier** ou **Ajouter un fichier** sur la page principale de sauvegarde de fichiers.
 
 [![ajouter un fichier ou un dossier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ajouter-dossier-fichier.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 
@@ -120,10 +104,6 @@ Et la sauvegarde incrémentielle nécessite une récupération plus complexe tan
 De plus, vous pouvez activer la notification par e-mail une fois la tâche terminée. Commenter, fractionner, compresser l'image de sauvegarde ou sélectionner un mode de sauvegarde, etc.
 
 [![options](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/options-sauvegarder/sauvegarde-options.png "AOMEI Email SMS Notification Settings")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Dernières réflexions sur l'utilitaire de sauvegarde Buffalo
 
@@ -173,15 +153,7 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Propre & Sûr
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -198,18 +170,16 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-here-is-how-asmr-helps-with-sleep-and-best-asmrtist-recommendation/"><u>[New] 2024 Approved Here Is How ASMR Helps with Sleep & Best ASMRtist Recommendation</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-windows-11-discover-new-apps-and-games-now/"><u>[Updated] 2024 Approved Windows 11 Discover New Apps & Games Now</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/a-step-by-step-approach-to-leveraging-anthropics-claude-3-for-enhanced-ai-interaction-via-the-prompt-store/"><u>A Step-by-Step Approach to Leveraging Anthropic's Claude 3 for Enhanced AI Interaction via the Prompt Store</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/energize-your-mornings-free-video-clips-to-kickstart-your-day-with-positivity/"><u>Energize Your Mornings: Free Video Clips to Kickstart Your Day with Positivity</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/expert-advice-on-how-to-delete-programs-in-windows-11-insights-from-yl-software-solutions/"><u>Expert Advice on How to Delete Programs in Windows 11 – Insights From YL Software Solutions</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/exploring-the-timeline-the-onset-of-chinas-hundred-days-reform-insights-by-yl-software/"><u>Exploring the Timeline: The Onset of China's Hundred Days' Reform - Insights by YL Software</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/guide-configuring-windows-updates-via-control-panel-tips-from-yl-computing/"><u>Guide: Configuring Windows Updates via Control Panel - Tips From YL Computing</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-affordable-pc-monitoring-software/"><u>In 2024, Affordable PC Monitoring Software</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-stolen-iphone-11-pro-max-in-different-conditionsin-drfone-by-drfone-ios/"><u>In 2024, How To Unlock Stolen iPhone 11 Pro Max In Different Conditionsin | Dr.fone</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/overcoming-laptop-loading-woes-insight-into-preventive-measures-and-fixes-by-yl-innovations/"><u>Overcoming Laptop Loading Woes: Insight Into Preventive Measures & Fixes by YL Innovations</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/the-ascension-to-authority-empress-dowager-cixis-power-play-decoded-by-yl-software-experts/"><u>The Ascension to Authority: Empress Dowager Cixi's Power Play Decoded by YL Software Experts</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/understanding-executable-files-windows-formats-explained-by-yl-computing/"><u>Understanding Executable Files: Windows Formats Explained by YL Computing</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/unveiling-the-tactics-of-crypto-price-distortion-advanced-techniques-by-yl-software-professionals/"><u>Unveiling the Tactics of Crypto Price Distortion - Advanced Techniques by YL Software Professionals</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/op-15-youtube-portals-on-stocks-and-trades-for-2024/"><u>[New] Top 15 YouTube Portals on Stocks & Trades for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-understanding-the-mechanics-of-vlc-media-player-on-macos/"><u>[Updated] In 2024, Understanding the Mechanics of VLC Media Player on macOS</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-oneplus-nord-3-5g-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your OnePlus Nord 3 5G | Dr.fone</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/guide-securely-using-windows-defender-to-check-your-usbs-and-portable-drives-expert-advice-from-yl-software/"><u>Guide: Securely Using Windows Defender to Check Your USBs and Portable Drives – Expert Advice From YL Software</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-honor-play-40c-is-unlocked-by-drfone-android/"><u>How To Check if Your Honor Play 40C Is Unlocked</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-realme-gt-3-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Realme GT 3? | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-asus-rog-phone-7-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Asus ROG Phone 7 | Dr.fone</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/master-your-stage-every-night-premium-karaoke-on-demand-via-karaoke-cloud-pro/"><u>Master Your Stage, Every Night: Premium Karaoke on Demand via Karaoke Cloud Pro</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/optimizing-your-pcs-storage-effective-methods-to-reclaim-precious-disk-space-tips-from-yl-computing/"><u>Optimizing Your PC's Storage: Effective Methods to Reclaim Precious Disk Space - Tips From YL Computing</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/windows-file-cloning-made-simple-expert-advice-by-yl-software-team/"><u>Windows File Cloning Made Simple - Expert Advice by YL Software Team</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/yl-softwares-guide-how-well-does-windows-defender-protect-against-new-cybersecurity-risks/"><u>YL Software's Guide: How Well Does Windows Defender Protect Against New Cybersecurity Risks?</u></a></li>
 </ul></div>
 
